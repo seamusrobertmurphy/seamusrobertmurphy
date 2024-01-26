@@ -8,5 +8,6 @@
 *.png
 /ReadMe2
 /README-pilot
+/README-web
 *.Rmd
 #*.html
