@@ -9,4 +9,4 @@
 /ReadMe2
 /README-pilot
 *.Rmd
-*.html
+#*.html
