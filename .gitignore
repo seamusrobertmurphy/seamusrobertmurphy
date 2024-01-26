@@ -2,5 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
-seamusrobertmurphy.Rproj
+/seamusrobertmurphy.Rproj
 /svgs
+*.svg
+*.png
+/ReadMe2
+/README-pilot
+*.Rmd
+*.html
