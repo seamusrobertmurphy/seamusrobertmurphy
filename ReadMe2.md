@@ -1,3 +1,13 @@
+Seamus Murphy, PhD
+Google Scholar: Citation Profile 
+ResearchGate: Research Profile 
+ORCID ID Twitter: @SeamusRMurphy  
+
+https://worldfishcenter.org/person/seamus-murphy
+
+https://www.ids.ac.uk/people/seamus-murphy/
+
+
 # 💫 About Me:
 
 🔭 I'm currently working on<br>👯 I'm looking to collaborate on<br>🤝 I'm looking for help with<br>🌱 I'm currently learning<br>💬 Ask me about<br>⚡ Fun fact
