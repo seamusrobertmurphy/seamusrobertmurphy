@@ -22,8 +22,4 @@
 
 <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/> [0000-0002-1792-0351](https://orcid.org/0000-0002-1792-0351) <img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/> [ResearchGate](https://www.researchgate.net/profile/Seamus_Murphy2) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="25"/> [Kaggle](https://www.kaggle.com/seamusmurphy) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/seamusrobertmurphy/)<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>[GoogleScholar](https://scholar.google.com/citations?user=jDGq9I4AAAAJ&hl)
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=seamusrobertmurphy&amp;show_icons=true&amp;locale=en&amp;layout=compact"
-class="align" style="center" width="600" height="150" />
-
 ------------------------------------------------------------------------
