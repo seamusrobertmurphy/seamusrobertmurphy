@@ -1,6 +1,6 @@
 #### Hi, I'm Seamus :wave:
 
-`I'm a registered forester interested in ecological modelling and big data workflows for improved enhanced forest inventories, carbon verification, and stand disturbance mapping. Repositories from past projects may also include natural resource mapping, consumer and value chain analysis. Hope you find what you're looking for.`
+`I'm a registered forester interested in ecological modelling and big data workflows for enhanced forest inventories, carbon verification, and stand disturbance mapping. Repositories from past projects include natural resource mapping, consumer and value chain analysis. Hope you find what you're looking for.`
 
 ##### Languages & Platforms
 
@@ -20,6 +20,6 @@
 
 ------------------------------------------------------------------------
 
-<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/> [0000-0002-1792-0351](https://orcid.org/0000-0002-1792-0351) <img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/> [ResearchGate](https://www.researchgate.net/profile/Seamus_Murphy2) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="25"/> [Kaggle](https://www.kaggle.com/seamusmurphy) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/seamusrobertmurphy/)<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>[GoogleScholar](https://scholar.google.com/citations?user=jDGq9I4AAAAJ&hl)
+<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/> [ORCID](https://orcid.org/0000-0002-1792-0351) <img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/> [ResearchGate](https://www.researchgate.net/profile/Seamus_Murphy2) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/seamusrobertmurphy/)<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>[Scholar](https://scholar.google.com/citations?user=jDGq9I4AAAAJ&hl)
 
 ------------------------------------------------------------------------
