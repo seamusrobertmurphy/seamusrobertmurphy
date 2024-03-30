@@ -1,6 +1,6 @@
 #### Hi, I'm Seamus :wave:
 
-`I'm a registered forester interested in ecological modelling and big data workflows for enhanced forest inventories, carbon verification, and stand disturbance mapping. Repositories from past projects include natural resource mapping, consumer and value chain analysis. Hope you find what you're looking for.`
+`I'm a registered forester interested in ecological modelling of enhanced forest inventories, carbon verification, and stand disturbance mapping. Repositories include also resource mapping, consumer and value chain analysis. Happy landing.
 
 ##### Languages & Platforms
 
