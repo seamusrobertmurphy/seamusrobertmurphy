@@ -14,7 +14,7 @@ I'm a registered forester interested in the ecological modeling of enhanced fore
 
 ------------------------------------------------------------------------
 
-##### Raster & LiDAR Libriares
+##### Raster & LiDAR Processing
 
 [<img src="https://mundiwebservices.com/keystoneapi/uploads/images/tool-gdal-logo.jpg" alt="git" width="35"/>](https://gdal.org/) [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools) [<img src="https://rapidlasso.de/wp-content/uploads/2023/03/Logo-Rapidlasso.svg" width="35"/>](https://rapidlasso.de) [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR) [<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Dynamics365" width="35"/>](https://earthengine.google.com/platform/)
 
