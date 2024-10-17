@@ -1,6 +1,6 @@
 #### Hi, I'm Seamus :wave:
 
-I'm a registered forester interested in the ecological modeling of enhanced forest inventories, carbon verification, and stand disturbance mapping. Repositories may also include resource-use mapping, consumer, household, and value chain analysis. Happy landing.
+I'm a forester interested in the ecological modeling of enhanced forest inventories, carbon verification, and stand disturbance mapping. Repositories may also include resource-use mapping, consumer, household, and value chain analysis. Happy landing.
 
 ##### Languages & Platforms
 
