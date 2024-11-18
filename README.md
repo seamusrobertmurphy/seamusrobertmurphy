@@ -1,6 +1,10 @@
-#### Hi, I'm Seamus :wave:
+#### Hi, I'm Seamus.
 
-I'm a forester interested in the ecological modeling of enhanced forest inventories, carbon verification, and stand disturbance mapping. Repositories may also include resource-use mapping, consumer, household, and value chain analysis. Happy landing.
+I'm interested in the ecological modeling of enhanced forest inventories, carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer regeneration. Repositories may include resource-use & stakeholder mapping, consumer preference ranking, household nutrition and value chain analysis. Happy coding.
+
+![](README_files/figure-html/setup-1.png)<!-- -->
+
+## 
 
 ##### Languages & Platforms
 
@@ -14,12 +18,14 @@ I'm a forester interested in the ecological modeling of enhanced forest inventor
 
 ------------------------------------------------------------------------
 
-##### Raster & LiDAR Processing
+##### Raster, LiDAR, & RADAR Processing
 
-[<img src="https://mundiwebservices.com/keystoneapi/uploads/images/tool-gdal-logo.jpg" alt="git" width="35"/>](https://gdal.org/) [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools) [<img src="https://rapidlasso.de/wp-content/uploads/2023/03/Logo-Rapidlasso.svg" width="35"/>](https://rapidlasso.de) [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR) [<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Dynamics365" width="35"/>](https://earthengine.google.com/platform/)
+[<img src="https://mundiwebservices.com/keystoneapi/uploads/images/tool-gdal-logo.jpg" alt="git" width="35"/>](https://gdal.org/) [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools) [<img src="https://rapidlasso.de/wp-content/uploads/2023/03/Logo-Rapidlasso.svg" width="35"/>](https://rapidlasso.de) [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR) [<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Dynamics365" width="35"/>](https://earthengine.google.com/platform/) [<img src="https://avatars.githubusercontent.com/u/16205719?s=48&amp;v=4" alt="git" width="35"/>](https://github.com/EarthBigData/openSAR)
 
 ------------------------------------------------------------------------
 
 <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/> [ORCID](https://orcid.org/0000-0002-1792-0351) <img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/> [ResearchGate](https://www.researchgate.net/profile/Seamus_Murphy2) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/seamusrobertmurphy/)<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>[Scholar](https://scholar.google.com/citations?user=jDGq9I4AAAAJ&hl)
 
 ------------------------------------------------------------------------
+
+## 
