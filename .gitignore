@@ -3,11 +3,7 @@
 .RData
 .Ruserdata
 /seamusrobertmurphy.Rproj
-/svgs
-*.svg
-*.png
 /ReadMe2
 /README-pilot
 /README-web
-*.Rmd
 #*.html
