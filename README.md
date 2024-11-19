@@ -1,10 +1,4 @@
-##### `Hi, I’m Seamus. I’m a forester interested in ecological modeling of enhanced forest inventories,`
-
-##### `carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer`
-
-##### `regeneration. Repositories may include resource-use & stakeholder mapping, preference ranking,`
-
-##### `household nutrition and value chain analysis. Happy coding.`
+##### `Hi, I’m Seamus. I’m a forester interested in ecological modeling of enhanced forest inventories, carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer regeneration. Past repositories may include resource-use & stakeholder mapping, preference rankings, household consumption & nutrition, retailer profitability & value chain analysis. Happy coding.`
 
 ##### Languages & Platforms
 
