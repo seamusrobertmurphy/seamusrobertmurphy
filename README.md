@@ -5,8 +5,6 @@ regeneration. Repositories may include resource-use & stakeholder
 mapping, consumer preference ranking, household nutrition and value
 chain analysis. Happy coding.
 
-<img src="README_files/tweet.png" style="width:5.4cm" />  
-
 ##### Languages & Platforms
 
 [<img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="ubuntu" width="35"/>](https://www.releases.ubuntu.com/)
