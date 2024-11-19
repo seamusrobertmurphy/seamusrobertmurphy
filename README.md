@@ -1,9 +1,10 @@
-Hi, I’m Seamus. I’m a forester interested in the ecological modeling of
-enhanced forest inventories, carbon estimation, land-cover change
-mapping and the spatial patterns of post-disturbance conifer
-regeneration. Repositories may include resource-use & stakeholder
-mapping, consumer preference ranking, household nutrition and value
-chain analysis. Happy coding.
+##### `Hi, I’m Seamus. I’m a forester interested in ecological modeling of enhanced forest inventories,`
+
+##### `carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer`
+
+##### `regeneration. Repositories may include resource-use & stakeholder mapping, preference ranking,`
+
+##### `household nutrition and value chain analysis. Happy coding.`
 
 ##### Languages & Platforms
 
@@ -44,13 +45,11 @@ chain analysis. Happy coding.
 
 ------------------------------------------------------------------------
 
-[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/>
-ORCID](https://orcid.org/0000-0002-1792-0351)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>
-ResearchGate](https://www.researchgate.net/profile/Seamus_Murphy2)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/>
-LinkedIn](https://www.linkedin.com/in/seamusrobertmurphy/)<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>[Scholar](https://scholar.google.com/citations?user=jDGq9I4AAAAJ&hl)
+##### Portfolio & Workspaces
 
-------------------------------------------------------------------------
-
-## 
+[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/>](#0)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](#0)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
+[<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
+![MySkills](https://skillicons.dev/icons?i=aws,azure&perline=2){width="77"
+height="35"}
