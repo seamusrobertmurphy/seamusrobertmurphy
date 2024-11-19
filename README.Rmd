@@ -58,11 +58,11 @@ easypackages::packages(
 :::
 
 ::: col-md-3
-```{r, message=FALSE, echo=FALSE}
-ggplot( mtcars, aes(x=mpg)) + geom_histogram(fill="skyblue", alpha=0.5) + theme_minimal()
-```
+`{r, message=FALSE, echo=FALSE} ggplot( mtcars, aes(x=mpg)) + geom_histogram(fill="skyblue", alpha=0.5) + theme_minimal()`
 :::
 :::
+
+![](README_files/figure-html/setup-2.png)
 
 ##### Languages & Platforms
 

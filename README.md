@@ -1,12 +1,13 @@
-::: row
-::: col-md-9
-<br><br>Hi, I'm Seamus. I'm a forester interested in the ecological modeling of enhanced forest inventories, carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer regeneration. Repositories may include resource-use & stakeholder mapping, consumer preference ranking, household nutrition and value chain analysis. Happy coding.
-:::
+<div class = "row">
 
-::: col-md-3
-![](README_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
-:::
-:::
+<div class = "col-md-9">
+<br><br>Hi, I'm Seamus. I'm a forester interested in the ecological modeling of enhanced forest inventories, carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer regeneration. Repositories may include resource-use & stakeholder mapping, consumer preference ranking, household nutrition and value chain analysis. Happy coding.
+</div>
+  
+<div class = "col-md-3">
+![](README_files/figure-html/setup-2.png)
+</div>
+</div>
 
 ##### Languages & Platforms
 
