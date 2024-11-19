@@ -3,31 +3,22 @@ README
 Murphy, S.
 2024-11-18
 
-<div class="columns">
-
+<div class = "row">
 <div class="column" width="64%">
-
 Hi, I’m Seamus. I’m a forester interested in the ecological modeling of
 enhanced forest inventories, carbon estimation, land-cover change
 mapping and the spatial patterns of post-disturbance conifer
 regeneration. Repositories may include resource-use & stakeholder
 mapping, consumer preference ranking, household nutrition and value
 chain analysis. Happy coding.
-
 </div>
 
 <div class="column" width="1%">
-
-  
-
 </div>
 
 <div class="column" width="35%">
-
 ![](README_files/tweet.png)  
-
 </div>
-
 </div>
 
 ##### Languages & Platforms

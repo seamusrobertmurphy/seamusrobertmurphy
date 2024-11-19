@@ -58,7 +58,6 @@ Hi, I'm Seamus. I'm a forester interested in the ecological modeling of enhanced
 :::
 
 ::: {.column width="1%"}
-\
 :::
 
 ::: {.column width="35%"}
