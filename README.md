@@ -4,8 +4,8 @@ author: "Murphy, S."
 date: "2024-11-18"
 output:
   html_document:
-    latex_engine: xelatex
     keep_md: true
+    latex_engine: xelatex
   github_document:
     latex_engine: xelatex
 always_allow_html: yes
@@ -13,7 +13,7 @@ always_allow_html: yes
 
 
 
-::: columns
+::::: columns
 ::: column
 Hi, I'm Seamus. I'm a forester interested in the ecological modeling of enhanced forest inventories, carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer regeneration. Repositories may include resource-use & stakeholder mapping, consumer preference ranking, household nutrition and value chain analysis. Happy coding.
 :::
@@ -21,7 +21,7 @@ Hi, I'm Seamus. I'm a forester interested in the ecological modeling of enhanced
 ::: column
 ![](README_files/tweet.png){width="5.4cm"}\
 :::
-:::
+:::::
 
 ##### Languages & Platforms
 
