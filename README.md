@@ -1,66 +1,10 @@
----
-title: "README"
-author: "Murphy, S."
-date: "2024-11-18"
-output: 
-  html_document:
-    keep_md: TRUE
----
-
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE, htmltools.preserve.raw = FALSE)
-knitr::opts_chunk$set(
-  echo = TRUE, message = FALSE, warning = FALSE,
-  error = FALSE, comment = NA, tidy.opts = list(width.cutoff = 6)
-) 
-
-requirements = c(
-  "pacman", "easypackages")
-
-setup <- function(requirements){
-  missing.packages <- requirements[!(requirements %in% installed.packages()[,"Package"])];
-  if(length(missing.packages)) {install.packages(
-    missing.packages, repos = "https://cloud.r-project.org/"); }
-  for(package_name in requirements){library(
-    package_name,character.only=TRUE,quietly=TRUE);
-  }
-}
-
-setup(requirements)
-
-#pacman::p_load(
-easypackages::packages(  
-  "aws.s3", 
-  "caret", "cli", "cols4all", "covr", "cowplot",
-  "dendextend", "digest","DiagrammeR","dtwclust", 
-  "e1071", "exactextractr", 
-  "FNN", "future",
-  "gdalcubes", "gdalUtilities", "geojsonsf","ggplot2","ggspatial",
-  "hdf5r", "httr", "httr2",
-  "jsonlite", 
-  "kohonen", 
-  "leafem", "libgeos","luz",
-  "mapedit", "mapview", "maptiles", "methods","mgcv", 
-  "ncdf4", "nnet", 
-  "openxlsx", 
-  "parallel",
-  "randomForest", "rasterVis", "raster", "Rcpp", "RcppArmadillo", "RcppCensSpatial", 
-  "RcppEigen", "RcppParallel", "RColorBrewer", "rsconnect","RStoolbox", "rts", "rmarkdown",
-  "sf", "scales", "sits","spdep", "stars", "stringr","supercells", 
-  "terra", "testthat", "tidyverse","tools", "tmap", 
-  "xgboost"
-)
-```
-
 ::: row
 ::: col-md-9
 <br><br>Hi, I'm Seamus. I'm a forester interested in the ecological modeling of enhanced forest inventories, carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer regeneration. Repositories may include resource-use & stakeholder mapping, consumer preference ranking, household nutrition and value chain analysis. Happy coding.
 :::
 
 ::: col-md-3
-```{r, message=FALSE, echo=FALSE}
-ggplot( mtcars, aes(x=mpg)) + geom_histogram(fill="skyblue", alpha=0.5) + theme_minimal()
-```
+![](README_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 :::
 :::
 
