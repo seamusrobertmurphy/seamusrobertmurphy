@@ -2,17 +2,26 @@
 title: "README"
 author: "Murphy, S."
 date: "2024-11-18"
-output: 
-  html_document:
-    keep_md: TRUE
+output:
+  html_document: default
+  github_document: 
+    html_preview: false
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_format = "all") })
 ---
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE, htmltools.preserve.raw = FALSE)
 knitr::opts_chunk$set(
-  echo = TRUE, message = FALSE, warning = FALSE,
-  error = FALSE, comment = NA, tidy.opts = list(width.cutoff = 6)
-) 
+	echo = TRUE,
+	error = FALSE,
+	message = FALSE,
+	warning = FALSE,
+	comment = NA,
+	tidy.opts = list(width.cutoff = 6)
+)
+ 
 
 requirements = c(
   "pacman", "easypackages")
@@ -53,16 +62,16 @@ easypackages::packages(
 ```
 
 ::: columns
-::: {.column width="60%"}
+::: {.column width="64%"}
 #### Hi, I'm Seamus. I'm a forester interested in the ecological modeling of enhanced forest inventories, carbon estimation, land-cover change mapping and the spatial patterns of post-disturbance conifer regeneration. Repositories may include resource-use & stakeholder mapping, consumer preference ranking, household nutrition and value chain analysis. Happy coding.
 :::
 
-::: {.column width="5%"}
+::: {.column width="1%"}
 \
 :::
 
 ::: {.column width="35%"}
-![](README_files/figure-html/setup-2.png)\
+![](README_files/tweet.png)\
 :::
 :::
 
