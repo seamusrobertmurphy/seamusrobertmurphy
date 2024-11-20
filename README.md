@@ -1,4 +1,4 @@
-`Hi, I’m Seamus. I’m a forester interested in enhanced forest inventories, carbon estimation, land-cover change mapping and spatial patterns of disturbance ecology. Past repositories include resource & stakeholder mapping, household consumption & nutrition, livelihood & value chain analysis. Happy coding.`\^
+`Hi, I’m Seamus. I’m a forester interested in enhanced forest inventories, carbon estimation, land-cover change mapping and spatial patterns of disturbance ecology. Past repositories include resource & stakeholder mapping, household consumption & nutrition, livelihood & value chain analysis. Happy coding.`
 
 ##### Languages & Platforms
 
@@ -36,14 +36,3 @@
 [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR)
 [<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Dynamics365" width="35"/>](https://earthengine.google.com/platform/)
 [<img src="https://avatars.githubusercontent.com/u/16205719?s=48&amp;v=4" alt="git" width="35"/>](https://github.com/EarthBigData/openSAR)
-
-------------------------------------------------------------------------
-
-##### Portfolio & Workspaces
-
-[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/>](#0)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](#0)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
-[<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
-![MySkills](https://skillicons.dev/icons?i=aws,azure&perline=2){width="77"
-height="30"}
