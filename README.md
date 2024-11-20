@@ -1,4 +1,4 @@
-`Hi, I’m Seamus. I’m a forester interested in enhanced forest inventories, carbon estimation, land-cover change mapping and spatial patterns of disturbance ecology. Past repositories include resource & stakeholder mapping, household consumption & nutrition, livelihood & value chain analysis. Happy coding.`^
+`Hi, I’m Seamus. I’m a forester interested in enhanced forest inventories, carbon estimation, land-cover change mapping and spatial patterns of disturbance ecology. Past repositories include resource & stakeholder mapping, household consumption & nutrition, livelihood & value chain analysis. Happy coding.`\^
 
 ##### Languages & Platforms
 
@@ -46,4 +46,4 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
 [<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
 ![MySkills](https://skillicons.dev/icons?i=aws,azure&perline=2){width="77"
-height="35"}
+height="30"}
