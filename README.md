@@ -20,11 +20,10 @@
 
 [<img src="https://enhakkore.net/wp-content/uploads/2019/07/logo-qgis.png" width="35"/>](https://www.qgis.org)
 [<img src="https://saga-gis.sourceforge.io/_images/logo_saga.png" width="35"/>](https://saga-gis.sourceforge.io)
-[<img src="http://www.brazildatacube.org/wp-content/uploads/2020/12/rStac_logo-768x889.png" width="30"/>](http://www.brazildatacube.org)
 [<img src="https://open-eo.github.io/openeo-r-client/reference/figures/logo.png" width="36"/>](https://open-eo.github.io)
 [<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-platform-220.png" width="35"/>](https://www.esriuk.com/en-gb/arcgis/products/arcgis-online/overview)[<img src="https://eos-gnss.com/wp-content/uploads/2021/04/ArcGIS-Field-Maps-Android.png" width="36"/>](https://www.esri.com/)[<img src="https://avatars.githubusercontent.com/u/3733688?s=200&amp;v=4" width="35"/>](https://geoodk.com)[<img src="https://docs.getodk.org/_static/odk-logo.svg" width="64"/>](http://odk.org/)[<img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="31"/>](https://github.com/rspatial/terra)
 [<img src="https://r-spatial.github.io/sf/logo.png" alt="Knitr" width="35"/>](https://r-spatial.github.io/sf)
-[<img src="https://gdalcubes.github.io/source/gdalcubes_logo_mini.png" alt="quarto" width="35"/>](https://gdalcubes.github.io)[<img src="https://stacspec.org/public/images-original/STAC-01.png" width="49"/>](https://stacspec.org)[<img src="https://cdn0.iconfinder.com/data/icons/fruit-and-vegetables-11/64/VEGETABLES_4-05-512.png" width="35"/>](https://topepo.github.io/caret/)[<img src="https://images.routledge.com/common/jackets/crclarge/978148221/9781482210200.jpg" alt="shiny" width="26"/>](https://spatstat.org)
+[<img src="https://gdalcubes.github.io/source/gdalcubes_logo_mini.png" alt="quarto" width="35"/>](https://gdalcubes.github.io)[<img src="https://cdn0.iconfinder.com/data/icons/fruit-and-vegetables-11/64/VEGETABLES_4-05-512.png" width="35"/>](https://topepo.github.io/caret/)[<img src="https://images.routledge.com/common/jackets/crclarge/978148221/9781482210200.jpg" alt="shiny" width="26"/>](https://spatstat.org)[<img src="https://raw.githubusercontent.com/e-sensing/sits/master/inst/extdata/sticker/sits_sticker.png" alt="sits" width="32"/>](https://e-sensing.github.io/sitsbook/)
 
 ------------------------------------------------------------------------
 
@@ -36,3 +35,16 @@
 [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR)
 [<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Dynamics365" width="35"/>](https://earthengine.google.com/platform/)
 [<img src="https://avatars.githubusercontent.com/u/16205719?s=48&amp;v=4" alt="git" width="35"/>](https://github.com/EarthBigData/openSAR)
+[<img src="https://stacspec.org/public/images-original/STAC-01.png" width="49"/>](https://stacspec.org)
+[<img src="http://www.brazildatacube.org/wp-content/uploads/2020/12/rStac_logo-768x889.png" width="30"/>](http://www.brazildatacube.org)
+
+------------------------------------------------------------------------
+
+##### Portfolio & Workspaces
+
+[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/>](#0)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](#0)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
+[<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
+![MySkills](https://skillicons.dev/icons?i=aws,azure&perline=2){width="77"
+height="35"}
