@@ -10,7 +10,7 @@ I am a forester interested in enhanced forest inventories, carbon modelling, lan
 
 ##### Projects
 
-- [mapp-templates](https://seamusrobertmurphy.quarto.pub/map-templates/): Default collection of field and operational maps. 
+- [mapp-templates](https://seamusrobertmurphy.quarto.pub/map-templates/): Default collection of field and terrain maps. 
 - [deforisk-maps](https://seamusrobertmurphy.quarto.pub/vt0007-deforestation-map/VT0007-deforestation-map.html): V0048: Activity data and deforestation risk allocation  
 - [height-indexer](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability): Lidar metrics of tree height variance for ground sampling.
 - [VM0047-scoping](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047): VM0047: Project eligibility & land degradation check.
