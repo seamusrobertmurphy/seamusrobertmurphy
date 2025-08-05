@@ -1,4 +1,19 @@
-Hi, I’m Seamus. I’m a forester interested in enhanced forest inventories, carbon estimation, land-cover change mapping and spatial patterns of disturbance ecology. Past repositories include resource & stakeholder mapping, household consumption & nutrition, livelihood & value chain analysis. Happy coding.
+<div align='center'>
+
+  Seamus Murphy
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
+  [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://seamusrobertmurphy.quarto.pub/)
+</div>
+
+I am a forester interested in enhanced forest inventories, carbon modelling, landcover change mapping and spatial patterns of disturbance ecology. Past repositories include resource & stakeholder mapping, household consumption & nutrition, livelihood & value chain analysis. Happy coding.
+
+##### Projects
+
+- [mapp-templates](https://seamusrobertmurphy.quarto.pub/map-templates/): Collection of field use and operational maps. 
+- [deforisk-maps](https://seamusrobertmurphy.quarto.pub/vt0007-deforestation-map/VT0007-deforestation-map.html): Starter script for VM48 compliant activity data and deforestation risk allocation  
+- [height-indexer](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability): LiDAR Metrics to Detect Areas of Tree Height Variability for Forest Inventory Crews
+- [VM0047-scoping](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047): VM0047: Project Eligibility & Land Degradation Check.
 
 ##### Languages & Platforms
 
