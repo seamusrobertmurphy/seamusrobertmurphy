@@ -3,7 +3,7 @@
   Seamus Murphy
   
   [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
-  [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://seamusrobertmurphy.quarto.pub/)
+  [![Pubs Badge](https://img.shields.io/badge/My-CV-critical)](https://seamusrobertmurphy.quarto.pub/)
 </div>
 
 I am a forester interested in enhanced forest inventories, carbon modelling, landcover change mapping and spatial patterns of disturbance ecology. Past repositories include resource & stakeholder mapping, household consumption & nutrition, livelihood & value chain analysis. Happy coding.
