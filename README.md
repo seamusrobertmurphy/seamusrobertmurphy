@@ -48,7 +48,7 @@ I am a forester interested in enhanced forest inventories, carbon modelling, lan
 
 ##### Raster, LiDAR, & RADAR Processing
 
-[<img src="https://mundiwebservices.com/keystoneapi/uploads/images/tool-gdal-logo.jpg" alt="git" width="35"/>](https://gdal.org/)
+[<img src="https://avatars.githubusercontent.com/u/1058467?s=48&v=4" alt="git" width="35"/>](https://gdal.org/)
 [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools)
 [<img src="https://rapidlasso.de/wp-content/uploads/2023/03/Logo-Rapidlasso.svg" width="35"/>](https://rapidlasso.de)
 [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR)
