@@ -1,19 +1,28 @@
-<div align='center'>
+::: {align="center"}
+#### Seamus Murphy
 
-  Seamus Murphy
-  
-  [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
-  [![Pubs Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ)
-</div>
+[![LinkedIn
+Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
+[![Pubs
+Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ)
+:::
 
-I am a forester interested in enhanced forest inventories, carbon modelling, landcover change mapping and spatial patterns of disturbance ecology. Past repositories include resource & stakeholder mapping, household consumption & nutrition, livelihood & value chain analysis. Happy coding.
+I am a forester interested in enhanced forest inventories, carbon
+modelling, landcover change mapping and spatial patterns of disturbance
+ecology. Past repositories include resource & stakeholder mapping,
+household consumption & nutrition, livelihood & value chain analysis.
+Happy coding.
 
 ##### Projects
 
-- [mapp-templates](https://seamusrobertmurphy.quarto.pub/map-templates/): Default collection of field and terrain maps. 
-- [deforisk-maps](https://seamusrobertmurphy.quarto.pub/vt0007-deforestation-map/VT0007-deforestation-map.html): V0048: Activity data and deforestation risk allocation  
-- [height-indexer](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability): Lidar metrics of tree height variance for ground sampling.
-- [VM0047-scoping](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047): VM0047: Project eligibility & land degradation check.
+-   [mapper-templates](https://seamusrobertmurphy.quarto.pub/map-templates/):
+    Default collection of field and terrain maps.
+-   [deforisk-maps](https://seamusrobertmurphy.quarto.pub/vt0007-deforestation-map/VT0007-deforestation-map.html):
+    VM0048: Activity data and deforestation risk allocation\
+-   [height-indexer](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability):
+    Lidar metrics of tree height variance for ground sampling.
+-   [lulc-scoping](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047):
+    VM0047: Project feasibility & land degradation check.
 
 ##### Languages & Platforms
 
@@ -48,7 +57,7 @@ I am a forester interested in enhanced forest inventories, carbon modelling, lan
 
 ##### Raster, LiDAR, & RADAR Processing
 
-[<img src="https://avatars.githubusercontent.com/u/1058467?s=48&v=4" alt="git" width="35"/>](https://gdal.org/)
+[<img src="https://avatars.githubusercontent.com/u/1058467?s=48&amp;v=4" alt="git" width="35"/>](https://gdal.org/)
 [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools)
 [<img src="https://rapidlasso.de/wp-content/uploads/2023/03/Logo-Rapidlasso.svg" width="35"/>](https://rapidlasso.de)
 [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR)
