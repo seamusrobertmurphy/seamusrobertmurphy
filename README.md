@@ -14,8 +14,8 @@ Guide to Verra’s VM0048 methodology for emissions reporting, baseline calculat
 |:-----------------------------------|:-----------------------------------|
 | [VM0048](https://seamusrobertmurphy.quarto.pub/vm0048/) | JREDD+ Guide to Verra’s VM0048 methodology for emissions reporting, baseline calculation, and deforestation risk mapping, and leakage estimates (*2025-01-04*). |
 | [VM0047](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047) | Scoping framework for assessing land degradation, forest change, and soil carbon emissions of potential ARR projects under VM0047 methodology (*2024-10-17*). |
-| ~[VM0010](https://seamusrobertmurphy.github.io/VM0010-starter-template/)~ | Reporting template for Improved Forest Management projects, with standardized procedures for inventory, carbon stock calculations, and MRV reporting (*2024-11-04*). |
-| ^[VT0007](https://seamusrobertmurphy.quarto.pub/vt0007/)^ | Geospatial toolkit for identifying and mapping deforestation risk factors using satellite data and socioeconomic indicators for jurisdictional REDD+ programs (*2024-11-06*). |
+| [VM0010](https://seamusrobertmurphy.github.io/VM0010-starter-template/) | Reporting template for Improved Forest Management projects, with standardized procedures for inventory, carbon stock calculations, and MRV reporting (*2024-11-04*). |
+| [VT0007](https://seamusrobertmurphy.quarto.pub/vt0007/) | Geospatial toolkit for identifying and mapping deforestation risk factors using satellite data and socioeconomic indicators for jurisdictional REDD+ programs (*2024-11-06*). |
 | [TREES Repo](https://seamusrobertmurphy.quarto.pub/art-trees-submission/) | A demonstration repository showcasing best practices in version control for reproducible GHG calculation workflows under ART-TREES methodology (*2025-08-11*). |
 | [TREES Monte Carlo](https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty) | Monte Carlo simulation methods for estimating uncertainty of REDD+ emission factors and activity data in compliance with ART-TREES Standard V2.0 (*2024-12-19*). |
 | [TREES Allometry](https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation) | Procedures for validating and calibrating allometric biomass models to comply with ART-TREES requirements, focusing on statistical bias correction (*2025-02-16*). |
@@ -23,6 +23,62 @@ Guide to Verra’s VM0048 methodology for emissions reporting, baseline calculat
 | [LiDAR Tree Height](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability) | A toolkit combining LiDAR and photogrammetric data for forest inventory planning, including automated tree top detection and stand structure analysis (*2023-10-15*). |
 | [Wetland Delineation](https://rpubs.com/seamusmurphy/mapping-endorheic-wetland-dynamics) | Framework for mapping endorheic wetland dynamics by combining Sentinel-1 SAR with Landsat time series analysis and community ecological knowledge (*2024-06-15*). |
 | [GeoODK Build](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map) | An open-source mobile data collection framework for socioeconomic field surveys with customizable templates and automated quality control protocols (*2018-02-05*). |
+
+
+<table style="width:100%;">
+  <thead>
+    <tr>
+      <th style="width:35%; text-align:left;">Project</th>
+      <th style="width:65%; text-align:left;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://seamusrobertmurphy.quarto.pub/vm0048/">VM0048</a></td>
+      <td>JREDD+ Guide to Verra’s VM0048 methodology for emissions reporting, baseline calculation, and deforestation risk mapping, and leakage estimates (*2025-01-04*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047">VM0047</a></td>
+      <td>Scoping framework for assessing land degradation, forest change, and soil carbon emissions of potential ARR projects under VM0047 methodology (*2024-10-17*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://seamusrobertmurphy.github.io/VM0010-starter-template/">VM0010</a></td>
+      <td>Reporting template for Improved Forest Management projects, with standardized procedures for inventory, carbon stock calculations, and MRV reporting (*2024-11-04*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://seamusrobertmurphy.quarto.pub/vt0007/">VT0007</a></td>
+      <td>Geospatial toolkit for identifying and mapping deforestation risk factors using satellite data and socioeconomic indicators for jurisdictional REDD+ programs (*2024-11-06*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://seamusrobertmurphy.quarto.pub/art-trees-submission/">TREES Repo</a></td>
+      <td>A demonstration repository showcasing best practices in version control for reproducible GHG calculation workflows under ART-TREES methodology (*2025-08-11*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty">TREES Monte Carlo</a></td>
+      <td>Monte Carlo simulation methods for estimating uncertainty of REDD+ emission factors and activity data in compliance with ART-TREES Standard V2.0 (*2024-12-19*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation">TREES Allometry</a></td>
+      <td>Procedures for validating and calibrating allometric biomass models to comply with ART-TREES requirements, focusing on statistical bias correction (*2025-02-16*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://seamusrobertmurphy.quarto.pub/map-templates/">Field Maps</a></td>
+      <td>A collection of interactive cartographic templates and frameworks for forest carbon project mapping, including symbology and layout generation (*2024-12-04*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability">LiDAR Tree Height</a></td>
+      <td>A toolkit combining LiDAR and photogrammetric data for forest inventory planning, including automated tree top detection and stand structure analysis (*2023-10-15*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://rpubs.com/seamusmurphy/mapping-endorheic-wetland-dynamics">Wetland Delineation</a></td>
+      <td>Framework for mapping endorheic wetland dynamics by combining Sentinel-1 SAR with Landsat time series analysis and community ecological knowledge (*2024-06-15*).</td>
+    </tr>
+    <tr>
+      <td><a href="https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map">GeoODK Build</a></td>
+      <td>An open-source mobile data collection framework for socioeconomic field surveys with customizable templates and automated quality control protocols (*2018-02-05*).</td>
+    </tr>
+  </tbody>
+</table>
 
 ##### Projects
 
