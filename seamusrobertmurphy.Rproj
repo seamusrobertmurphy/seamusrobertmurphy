@@ -14,4 +14,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 MarkdownWrap: Column
-MarkdownWrapAtColumn: 72
+MarkdownWrapAtColumn: 50
