@@ -21,50 +21,50 @@ Happy coding.
     calculation, and deforestation risk mapping, and leakage estimates
     (*2025-01-04)*.
 
--   [**VM0047: ARR
-    Feasibility**](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047) -
+-   [VM0047: ARR
+    Feasibility](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047) -
     Framework for assessing land degradation, forest change, and soil
     carbon potential for ARR projects under VM0047 methodology
     (*2024-10-17* ).
 
--   [**VM0010: IFM
-    Template**](https://seamusrobertmurphy.github.io/VM0010-starter-template/) -
+-   [VM0010: IFM
+    Template](https://seamusrobertmurphy.github.io/VM0010-starter-template/) -
     Reporting template for Improved Forest Management projects, with
     standardized procedures for inventory, carbon stock calculations,
     and MRV reporting (*2024-11-04*).
 
--   [**VT0007: JREDD+ Risk
-    Mapping**](https://seamusrobertmurphy.quarto.pub/vt0007/) -
-    Geospatial toolkit for identifying and mapping deforestation risk
-    factors using satellite data and socioeconomic indicators for
-    jurisdictional REDD+ programs (*2024-11-06* )
+-   [VT0007: JREDD+ Risk
+    Mapping](https://seamusrobertmurphy.quarto.pub/vt0007/) - Geospatial
+    toolkit for identifying and mapping deforestation risk factors using
+    satellite data and socioeconomic indicators for jurisdictional REDD+
+    programs (*2024-11-06* )
 
--   [**ART-TREES: Repository
-    Demo**](https://seamusrobertmurphy.quarto.pub/art-trees-submission/) -
+-   [ART-TREES: Repository
+    Demo](https://seamusrobertmurphy.quarto.pub/art-trees-submission/) -
     A demonstration repository showcasing best practices in version
     control for reproducible GHG calculation workflows under ART-TREES
     methodology. (*2025-08-11)*.
 
--   [**ART-TREES: Allometry
-    Validation**](https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation)
+-   [ART-TREES: Allometry
+    Validation](https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation)
     Procedures for validating and calibrating allometric biomass models
     to comply with ART-TREES requirements, focusing on statistical bias
     correction.  (*2025-02-16)*.
 
--   [**ART-TREES: Monte Carlo
-    Tools**](https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty) -
+-   [ART-TREES: Monte Carlo
+    Tools](https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty) -
     Monte Carlo simulation methods for estimating uncertainty of REDD+
     emission factors and activity data in compliance with ART-TREES
     Standard V2.0 (*2024-12-19)*.
 
--   [**Mapping
-    Templates**](https://seamusrobertmurphy.quarto.pub/map-templates/) -
-    A collection of interactive cartographic templates and frameworks
-    for forest carbon project mapping, including symbology and layout
+-   [Mapping
+    Templates](https://seamusrobertmurphy.quarto.pub/map-templates/) - A
+    collection of interactive cartographic templates and frameworks for
+    forest carbon project mapping, including symbology and layout
     generation.  (*2024-12-04*).
 
--   [**LiDAR: Forest Height
-    Analysis**](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability) -
+-   [LiDAR: Forest Height
+    Analysis](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability) -
     A toolkit combining LiDAR and photogrammetric data for forest
     inventory planning, including automated tree top detection and stand
     structure analysis (*2023-10-15)*.
@@ -75,8 +75,8 @@ Happy coding.
     Sentinel-1 SAR with Landsat time series analysis and community
     ecological knowledge (*2024-06-15* ).
 
--   [**GeoODK Survey
-    Build**](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map) -
+-   [GeoODK Survey
+    Build](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map) -
     An open-source mobile data collection framework for socioeconomic
     field surveys with customizable templates and automated quality
     control protocols (*2018-02-05*).
