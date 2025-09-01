@@ -75,8 +75,8 @@ Happy coding.
     Sentinel-1 SAR with Landsat time series analysis and community
     ecological knowledge (*2024-06-15* ).
 
--   [GeoODK Survey
-    Build](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map) -
+-   [GeoODK Build
+    Template](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map) -
     An open-source mobile data collection framework for socioeconomic
     field surveys with customizable templates and automated quality
     control protocols (*2018-02-05*).
