@@ -12,10 +12,10 @@ Guide to Verra’s VM0048 methodology for emissions reporting, baseline calculat
 
 | Project | Description |
 |:-----------------------------------|:-----------------------------------|
-| [VM0048](https://seamusrobertmurphy.quarto.pub/vm0048/) |   JREDD+ Guide to Verra’s VM0048 methodology for emissions reporting, baseline calculation, and deforestation risk mapping, and leakage estimates (*2025-01-04*). |
+| [VM0048](https://seamusrobertmurphy.quarto.pub/vm0048/) | JREDD+ Guide to Verra’s VM0048 methodology for emissions reporting, baseline calculation, and deforestation risk mapping, and leakage estimates (*2025-01-04*). |
 | [VM0047](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047) | Scoping framework for assessing land degradation, forest change, and soil carbon emissions of potential ARR projects under VM0047 methodology (*2024-10-17*). |
-| [VM0010](https://seamusrobertmurphy.github.io/VM0010-starter-template/) | Reporting template for Improved Forest Management projects, with standardized procedures for inventory, carbon stock calculations, and MRV reporting (*2024-11-04*). |
-| [VT0007](https://seamusrobertmurphy.quarto.pub/vt0007/) | Geospatial toolkit for identifying and mapping deforestation risk factors using satellite data and socioeconomic indicators for jurisdictional REDD+ programs (*2024-11-06*). |
+| ~[VM0010](https://seamusrobertmurphy.github.io/VM0010-starter-template/)~ | Reporting template for Improved Forest Management projects, with standardized procedures for inventory, carbon stock calculations, and MRV reporting (*2024-11-04*). |
+| ^[VT0007](https://seamusrobertmurphy.quarto.pub/vt0007/)^ | Geospatial toolkit for identifying and mapping deforestation risk factors using satellite data and socioeconomic indicators for jurisdictional REDD+ programs (*2024-11-06*). |
 | [TREES Repo](https://seamusrobertmurphy.quarto.pub/art-trees-submission/) | A demonstration repository showcasing best practices in version control for reproducible GHG calculation workflows under ART-TREES methodology (*2025-08-11*). |
 | [TREES Monte Carlo](https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty) | Monte Carlo simulation methods for estimating uncertainty of REDD+ emission factors and activity data in compliance with ART-TREES Standard V2.0 (*2024-12-19*). |
 | [TREES Allometry](https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation) | Procedures for validating and calibrating allometric biomass models to comply with ART-TREES requirements, focusing on statistical bias correction (*2025-02-16*). |
