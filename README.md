@@ -1,74 +1,90 @@
-::: {align="center"}
-\## Seamus Murphy
+<div align='center'>
 
-[![LinkedIn
-Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
-[![Pubs
-Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ)
-:::
+  <h1>Seamus Murphy</h1>
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
+  [![Pubs Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ)
 
-I am a forester interested in enhanced forest inventories, carbon
-modelling, landcover change mapping and spatial patterns of disturbance
-ecology. Past repositories include resource & stakeholder mapping,
-household consumption & nutrition, livelihood & value chain analysis.
+</div>
+<hr>
+
+
+I am a forester interested in enhanced forest
+inventories, carbon modelling, landcover change
+mapping and spatial patterns of disturbance
+ecology. Past repositories include resource &
+stakeholder mapping, household consumption &
+nutrition, livelihood & value chain analysis.
 Happy coding.
 
 ##### Projects
 
 -   [VM0048: Jurisdictional
-    REDD+](https://seamusrobertmurphy.quarto.pub/vm0048/) - Guide to
-    Verra’s VM0048 methodology for emissions reporting, baseline
-    calculation, and deforestation risk mapping, and leakage estimates
-    (*2025-01-04)*.
+    REDD+](https://seamusrobertmurphy.quarto.pub/vm0048/) -
+    Guide to Verra’s VM0048 methodology for
+    emissions reporting, baseline calculation, and
+    deforestation risk mapping, and leakage
+    estimates (*2025-01-04)*.
 -   [VM0047: ARR
     Feasibility](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047) -
-    Framework for assessing land degradation, forest change, and soil
-    carbon potential for ARR projects under VM0047 methodology
+    Framework for assessing land degradation,
+    forest change, and soil carbon potential for
+    ARR projects under VM0047 methodology
     (*2024-10-17* ).
 -   [VM0010: IFM
     Template](https://seamusrobertmurphy.github.io/VM0010-starter-template/) -
-    Reporting template for Improved Forest Management projects, with
-    standardized procedures for inventory, carbon stock calculations,
-    and MRV reporting (*2024-11-04*).
+    Reporting template for Improved Forest
+    Management projects, with standardized
+    procedures for inventory, carbon stock
+    calculations, and MRV reporting
+    (*2024-11-04*).
 -   [VT0007: JREDD+ Risk
-    Mapping](https://seamusrobertmurphy.quarto.pub/vt0007/) - Geospatial
-    toolkit for identifying and mapping deforestation risk factors using
-    satellite data and socioeconomic indicators for jurisdictional REDD+
-    programs (*2024-11-06* )
+    Mapping](https://seamusrobertmurphy.quarto.pub/vt0007/) -
+    Geospatial toolkit for identifying and mapping
+    deforestation risk factors using satellite
+    data and socioeconomic indicators for
+    jurisdictional REDD+ programs (*2024-11-06* )
 -   [ART-TREES: Demo
     Repository](https://seamusrobertmurphy.quarto.pub/art-trees-submission/) -
-    A demonstration repository showcasing best practices in version
-    control for reproducible GHG calculation workflows under ART-TREES
+    A demonstration repository showcasing best
+    practices in version control for reproducible
+    GHG calculation workflows under ART-TREES
     methodology. (*2025-08-11)*.
 -   [ART-TREES: Allometry
     Validator](https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation)
-    Procedures for validating and calibrating allometric biomass models
-    to comply with ART-TREES requirements, focusing on statistical bias
-    correction.  (*2025-02-16)*.
+    Procedures for validating and calibrating
+    allometric biomass models to comply with
+    ART-TREES requirements, focusing on
+    statistical bias correction.  (*2025-02-16)*.
 -   [ART-TREES: Monte Carlo
     Tools](https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty) -
-    Monte Carlo simulation methods for estimating uncertainty of REDD+
-    emission factors and activity data in compliance with ART-TREES
+    Monte Carlo simulation methods for estimating
+    uncertainty of REDD+ emission factors and
+    activity data in compliance with ART-TREES
     Standard V2.0 (*2024-12-19)*.
 -   [Mapping
-    Templates](https://seamusrobertmurphy.quarto.pub/map-templates/) - A
-    collection of interactive cartographic templates and frameworks for
-    forest carbon project mapping, including symbology and layout
-    generation.  (*2024-12-04*).
+    Templates](https://seamusrobertmurphy.quarto.pub/map-templates/) -
+    A collection of interactive cartographic
+    templates and frameworks for forest carbon
+    project mapping, including symbology and
+    layout generation.  (*2024-12-04*).
 -   [LiDAR: Forest Height
     Analysis](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability) -
-    A toolkit combining LiDAR and photogrammetric data for forest
-    inventory planning, including automated tree top detection and stand
+    A toolkit combining LiDAR and photogrammetric
+    data for forest inventory planning, including
+    automated tree top detection and stand
     structure analysis (*2023-10-15)*.
 -   [Wetland Delineation: SAR & Landsat
     Workflow](https://rpubs.com/seamusmurphy/mapping-endorheic-wetland-dynamics) -
-    Framework for mapping endorheic wetland dynamics by combining
-    Sentinel-1 SAR with Landsat time series analysis and community
+    Framework for mapping endorheic wetland
+    dynamics by combining Sentinel-1 SAR with
+    Landsat time series analysis and community
     ecological knowledge (*2024-06-15* ).
 -   [GeoODK Build
     Template](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map) -
-    An open-source mobile data collection framework for socioeconomic
-    field surveys with customizable templates and automated quality
+    An open-source mobile data collection
+    framework for socioeconomic field surveys with
+    customizable templates and automated quality
     control protocols (*2018-02-05*).
 
 ##### Languages & Platforms
@@ -85,7 +101,7 @@ Happy coding.
 [<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/knitr.png" alt="Knitr" width="30" height="35"/>](https://yihui.org/knitr/)
 [<img src="https://avatars.githubusercontent.com/u/67437475?s=200&amp;v=4" alt="quarto" width="35"/>](https://github.com/quarto-dev)[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="shiny" width="30" height="35"/>](http://shiny.rstudio.com/)
 
-------------------------------------------------------------------------
+--------------------------------------------------
 
 ##### Tools & Packages
 
@@ -99,7 +115,7 @@ Happy coding.
 [<img src="https://cdn0.iconfinder.com/data/icons/fruit-and-vegetables-11/64/VEGETABLES_4-05-512.png" width="35"/>](https://topepo.github.io/caret/)
 [<img src="https://images.routledge.com/common/jackets/crclarge/978148221/9781482210200.jpg" alt="shiny" width="26"/>](https://spatstat.org)
 
-------------------------------------------------------------------------
+--------------------------------------------------
 
 ##### Raster, LiDAR, & RADAR Processing
 
@@ -115,7 +131,7 @@ Happy coding.
 [<img src="https://raw.githubusercontent.com/e-sensing/sits/master/inst/extdata/sticker/sits_sticker.png" alt="sits" width="32"/>](https://e-sensing.github.io/sitsbook/)
 [<img src="https://gdalcubes.github.io/source/gdalcubes_logo_mini.png" alt="quarto" width="35"/>](https://gdalcubes.github.io)
 
-------------------------------------------------------------------------
+--------------------------------------------------
 
 ##### Portfolio & Workspaces
 
