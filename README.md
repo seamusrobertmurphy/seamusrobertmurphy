@@ -30,6 +30,8 @@ I am a forester interested in enhanced forest inventories, carbon modelling, lan
 
 -   [**ART-TREES: Allometry Validator**](https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation): Procedures for validating and calibrating allometric biomass models to comply with ART-TREES requirements, focusing on statistical bias correction (*2025-02-16*).
 
+-   [CFFDRS: Wildfire Risk Mapping](https://seamusrobertmurphy.quarto.pub/cffdrs/): A reproducible pipeline for wildfire risk mapping, fuel typing and burn prediction metrics in British Columbia's Okanagan Watershed using the updated CFFDRS V2.0 framework and `cffdrs` package (*2022-02-24*).
+
 -   [**Mapping Templates**](https://seamusrobertmurphy.quarto.pub/map-templates/): A collection of interactive cartographic templates and frameworks for forest carbon project mapping, including symbology and layout generation (*2024-12-04*).
 
 -   [**LiDAR: Forest Height Analysis**](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability): A toolkit combining LiDAR and photogrammetric data for forest inventory planning, including automated tree top detection and stand structure analysis (*2023-10-15*).
