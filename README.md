@@ -16,13 +16,13 @@ I am a forester interested in enhanced forest inventories, carbon modelling, lan
 
 ### Projects
 
--   [**VM0048: Jurisdictional REDD+**](https://seamusrobertmurphy.quarto.pub/vm0048/): Guide to Verra’s VM0048 methodology for emissions reporting, baseline calculation, and deforestation risk mapping, and leakage estimates (*2025-01-04*).
+-   [**VM0048: Jurisdictional REDD+**](https://seamusrobertmurphy.quarto.pub/vm0048/): Guide to Verra’s consolidated methodology, including jurisdictional baseline emissions estimates, spatial deforestation risk mapping, and leakage belt delineation (*2025-01-04*).
 
--   [**VM0047: ARR Feasibility**](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047): Framework for assessing land degradation, forest change, and soil carbon potential for ARR projects under VM0047 methodology (*2024-10-17*).
+-   [**VM0047: ARR Feasibility**](https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047): Framework for assessing land degradation, forest change, and soil carbon stocks of potential ARR projects pursuant to VM0047 methodology (*2024-10-17*).
 
--   [**VM0010: IFM Template**](https://seamusrobertmurphy.github.io/VM0010-starter-template/): Reporting template for Improved Forest Management projects, with standardized procedures for inventory, carbon stock calculations, and MRV reporting (*2024-11-04*).
+-   [**VM0010: IFM Template**](https://seamusrobertmurphy.github.io/VM0010-starter-template/):  MRV reporting template for Improved Forest Management projects, with standardized procedures for inventory, carbon stock, and logging emissions reporting (*2024-11-04*).
 
--   [**VT0007: JREDD+ Risk Mapping**](https://seamusrobertmurphy.quarto.pub/vt0007/): Geospatial toolkit for identifying and mapping deforestation risk factors using satellite data and socioeconomic indicators for jurisdictional REDD+ programs (*2024-11-06*).
+-   [**VT0007: JREDD+ Risk Mapping**](https://seamusrobertmurphy.quarto.pub/vt0007/): Geospatial toolkit for mapping deforestation risk factors using satellite data and socioeconomic indicators for jurisdictional REDD+ programs (*2024-11-06*).
 
 -   [**ART-TREES: Demo Repository**](https://seamusrobertmurphy.quarto.pub/art-trees-submission/): A demonstration repository showcasing best practices in version control for reproducible GHG calculation workflows under ART-TREES methodology (*2025-08-11*).
 
