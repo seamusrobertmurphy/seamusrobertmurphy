@@ -34,7 +34,9 @@ I am a forester interested in enhanced forest inventories, carbon modelling, lan
 
 -   [**Mapping Templates**](https://seamusrobertmurphy.quarto.pub/map-templates/): A collection of interactive cartographic templates and frameworks for forest carbon project mapping, including symbology and layout generation (*2024-12-04*).
 
--   [**LiDAR: Forest Height Analysis**](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability): A toolkit combining LiDAR and photogrammetric data for forest inventory planning, including automated tree top detection and stand structure analysis (*2023-10-15*).
+-   [**LiDAR: Forest Height**](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability): A toolkit combining LiDAR and photogrammetric data for forest inventory planning, including automated tree top detection and stand structure analysis (*2023-10-15*).
+
+-   [**LiDAR: Point-Clouds**](https://seamusrobertmurphy.quarto.pub/lidar-forestry/): An End-to-End Workflow for High-Resolution Terrain and Canopy Modeling from Airborne LiDAR Data (*2021-11-09*).
 
 -   [**Wetland Delineation: SAR & Landsat Workflow**](https://rpubs.com/seamusmurphy/mapping-endorheic-wetland-dynamics): Framework for mapping endorheic wetland dynamics by combining Sentinel-1 SAR with Landsat time series analysis and community ecological knowledge (*2024-06-15*).
 
