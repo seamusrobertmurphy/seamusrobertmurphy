@@ -142,3 +142,13 @@ analysis. Happy coding.
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](#0)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
 [<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
+
+
+##### GitHub stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seamusrobertmurphy&rank_icon=github&theme=transparent)](https://github.com/seamusrobertmurphy) 
+
+##### Most used languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seamusrobertmurphy&hide=tex,ts,php,lua&langs_count=8&theme=transparent)(https://github.com/seamusrobertmurphy)
+
