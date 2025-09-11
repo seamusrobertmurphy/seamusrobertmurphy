@@ -131,8 +131,8 @@ analysis. Happy coding.
 [<img src="https://stacspec.org/public/images-original/STAC-01.png" width="49"/>](https://stacspec.org)
 [<img src="http://www.brazildatacube.org/wp-content/uploads/2020/12/rStac_logo-768x889.png" width="30"/>](http://www.brazildatacube.org)
 [<img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="31"/>](https://github.com/rspatial/terra)
-![sits](https://e-sensing.github.io/sitsbook/images/cover_sits_book_quarto.png){alt="sits"
-width="28" height="35"}
+![sits](https://avatars.githubusercontent.com/u/12664233?s=48&v=4){alt="sits"
+width="35"}
 [<img src="https://gdalcubes.github.io/source/gdalcubes_logo_mini.png" alt="quarto" width="35"/>](https://gdalcubes.github.io)
 
 ----------------------------------------------------------------------
