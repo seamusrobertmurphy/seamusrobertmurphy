@@ -151,5 +151,5 @@ analysis. Happy coding.
 
 ##### Most used languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seamusrobertmurphy&hide=tex,ts,php,lua&langs_count=8&theme=transparent)(https://github.com/seamusrobertmurphy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seamusrobertmurphy&hide=tex,ts,php,lua&langs_count=8&theme=transparent)
 
