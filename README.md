@@ -2,7 +2,7 @@
   <h1>Seamus Murphy</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/) 
-[![Pubs Badge](https://img.shields.io/badge/My-CV-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ) 
+[![Pubs Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ) 
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://seamusrobertmurphy.quarto.pub/bio/)
 
 </div>
