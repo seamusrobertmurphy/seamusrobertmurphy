@@ -168,7 +168,7 @@ analysis. Happy coding.
 
 [![Seamus's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy)](https://github.com/seamusrobertmurphy/github-readme-stats-fast)
 
-[![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&show_owner=true)](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b)
+[![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&description_lines_count=3)](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b)
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seamusrobertmurphy&layout=donut-vertical)](https://github.com/seamusrobertmurphy/github-readme-stats)
 
@@ -197,7 +197,7 @@ analysis. Happy coding.
     <tr>
       <td colspan="4">
         <a href="https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b">
-          <img src="https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&description_lines_count=2" alt="Gist Card"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&description_lines_count=3" alt="Gist Card"/>
         </a>
       </td>
     </tr>
