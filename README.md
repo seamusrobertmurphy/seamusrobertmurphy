@@ -131,8 +131,9 @@ analysis. Happy coding.
 [<img src="https://cdn.arcgis.com/sharing/rest/content/items/f555c7ac365b4e3287a77c75e410b827/resources/4iL1qzHBpmppt_jg95PO9.svg" alt="ArcGIS Pro" width="35"/>](https://www.esri.com/en-us/arcgis/products/arcgis-pro/)
 [<img src="https://geetools.readthedocs.io/en/stable/_images/logo.png" alt="Sentinel Hub" width="45"/>](https://geetools.readthedocs.io/en/stable/)
 [<img src="https://raw.githubusercontent.com/davemlz/eemont/master/docs/_static/header2.png" alt="eemont" width="35"/>](https://eemont.readthedocs.io/)
-[<img src="https://earthengine.google.com/static/images/earth_engine_icon.png" alt="awesome-ee" width="35"/>](https://earthengine.google.com/)
 [<img src="https://book.geemap.org/_static/logo.png" alt="awesome-ee" width="35"/>](https://book.geemap.org/)
+[<img src="https://user-images.githubusercontent.com/6677629/193518988-956b9571-169d-4a79-89a8-d347d46c1af7.png" alt="GEE Catalog" width="35"/>](https://developers.google.com/earth-engine/datasets/)
+[<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Code Editor" width="35"/>](https://code.earthengine.google.com/)
 
 
 </div>
@@ -147,7 +148,6 @@ analysis. Happy coding.
 [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools)
 [<img src="https://rapidlasso.de/wp-content/uploads/2023/03/Logo-Rapidlasso.svg" width="35"/>](https://rapidlasso.de)
 [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR)
-[<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Dynamics365" width="35"/>](https://earthengine.google.com/platform/)
 [<img src="https://avatars.githubusercontent.com/u/16205719?s=48&amp;v=4" alt="git" width="35"/>](https://github.com/EarthBigData/openSAR)
 [<img src="https://stacspec.org/public/images-original/STAC-01.png" width="49"/>](https://stacspec.org)
 [<img src="http://www.brazildatacube.org/wp-content/uploads/2020/12/rStac_logo-768x889.png" width="30"/>](http://www.brazildatacube.org)
@@ -176,10 +176,7 @@ analysis. Happy coding.
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](#0)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
 [<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
-[<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="GEE" width="35"/>](https://earthengine.google.com/)
 [<img src="https://raw.githubusercontent.com/davemlz/davemlz/main/spectral.png" alt="spectral" width="35"/>](https://github.com/davemlz/spectral)
-[<img src="https://user-images.githubusercontent.com/6677629/193518988-956b9571-169d-4a79-89a8-d347d46c1af7.png" alt="GEE Catalog" width="35"/>](https://developers.google.com/earth-engine/datasets/)
-[<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Code Editor" width="35"/>](https://code.earthengine.google.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwIxPM4L3q_9FAJgsKa1626sEiYbvMUMgiw&s" alt="Code Editor" width="35"/>](https://step.esa.int/main/download/snap-download/)
 
 </div>
