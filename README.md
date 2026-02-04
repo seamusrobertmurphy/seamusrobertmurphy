@@ -53,19 +53,19 @@ analysis. Happy coding.
     quantification and hyperparameter tuning in REDD+ carbon accounting, 
     featuring normality testing, distribution fitting, bootstrap resampling, 
     and machine learning-based uncertainty reduction for emission factors and 
-    activity data (2024-11-14).
+    activity data (*2024-11-14*).
     
 -   [**ART-TREES**](https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation)
     **Allometry Vallidator** for validating and calibrating allometric
     biomass models to comply with ART-TREES requirements, focusing on
     statistical bias correction (*2025-02-16*).
     
--   [**ART-TREES**](https://seamusrobertmurphy.quarto.pub/redd-uncertainty-training/)  
-    **REDD+ Uncertainty Training**: Foundational training curriculum on uncertainty 
+-   [**REDD+**](https://seamusrobertmurphy.quarto.pub/redd-uncertainty-training/)  
+    **Uncertainty Training**: Foundational training curriculum on uncertainty 
     quantification in jurisdictional REDD+ carbon accounting, covering 
     allometric equations, emission factors, activity data, and Monte Carlo 
     error propagation methods in compliance with ART-TREES Standard V2.0 and 
-    IPCC 2019 guidelines (2026-01-09).
+    IPCC 2019 guidelines (*2026-01-09*).
 
 -   [**CFFDRS**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
     **Canadian Forest Fire Danger Rating System** pipeline for
