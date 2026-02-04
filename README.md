@@ -73,8 +73,8 @@ analysis. Happy coding.
     the updated CFFDRS V2.0 framework and `cffdrs` package
     (*2022-02-24*).
 
--   [**Map-Templates**](https://seamusrobertmurphy.quarto.pub/map-templates/)
-    **Interactive and Static Mapping** of field operations, site
+-   [**Maps**](https://seamusrobertmurphy.quarto.pub/map-templates/)
+    **Templates for Interactive and Static Mapping of Operational Sites** of field operations, site
     visualization, and landscape analysis, including symbology and
     layout generation (*2024-12-04*).
 
