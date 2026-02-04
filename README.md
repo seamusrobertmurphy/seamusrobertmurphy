@@ -126,9 +126,9 @@ analysis. Happy coding.
 [<img src="https://cdn0.iconfinder.com/data/icons/fruit-and-vegetables-11/64/VEGETABLES_4-05-512.png" width="35"/>](https://topepo.github.io/caret/)
 [<img src="https://images.routledge.com/common/jackets/crclarge/978148221/9781482210200.jpg" alt="shiny" width="26"/>](https://spatstat.org)
 [<img src="https://avatars.githubusercontent.com/u/476009?s=200&v=4" alt="QGIS" width="35"/>](https://qgis.org/)
-[<img src="https://whitebox-tools.readthedocs.io/en/latest/_static/img/WhiteboxToolsLogo.svg" alt="WhiteboxTools" width="35"/>](https://www.whiteboxgeo.com/)
+[<img src="https://www.whiteboxgeo.com/wp-content/uploads/2021/04/cropped-Screen-Shot-2021-04-07-at-4.05.28-PM.png" alt="WhiteboxTools" width="35"/>](https://www.whiteboxgeo.com/)
 [<img src="https://raw.githubusercontent.com/geocompx/geocompr/main/images/cover.png" alt="geocompr" width="26"/>](https://r.geocompx.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" alt="ArcGIS Pro" width="35"/>](https://www.esri.com/en-us/arcgis/products/arcgis-pro/)
+[<img src="https://cdn.arcgis.com/sharing/rest/content/items/f555c7ac365b4e3287a77c75e410b827/resources/4iL1qzHBpmppt_jg95PO9.svg" alt="ArcGIS Pro" width="35"/>](https://www.esri.com/en-us/arcgis/products/arcgis-pro/)
 [<img src="https://geetools.readthedocs.io/en/stable/_images/logo.png" alt="Sentinel Hub" width="45"/>](https://geetools.readthedocs.io/en/stable/)
 [<img src="https://raw.githubusercontent.com/davemlz/eemont/master/docs/_static/header2.png" alt="eemont" width="35"/>](https://eemont.readthedocs.io/)
 [<img src="https://earthengine.google.com/static/images/earth_engine_icon.png" alt="awesome-ee" width="35"/>](https://earthengine.google.com/)
@@ -160,8 +160,8 @@ analysis. Happy coding.
 [<img src="https://www.geos.ed.ac.uk/~gisteac/procenv/images/grass_logo.png" alt="GRASS GIS" width="35"/>](https://grass.osgeo.org/)
 [<img src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" alt="rasterio" width="35"/>](https://rasterio.readthedocs.io/)
 [<img src="https://geopandas.org/en/stable/_static/geopandas_logo.png" alt="geopandas" width="45"/>](https://geopandas.org/)
-[<img src="https://sepal.io/img/sepal-logo.png" alt="SEPAL" width="45"/>](https://sepal.io/)
-[<img src="https://cdn.collect.earth/img/ceo-logo.png" alt="Collect Earth" width="35"/>](https://collect.earth/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO2BBECcflpS7-hU8o8kBVWnmJPA0rmjmIa3rOjaq6OBT3J2YnyB_1X2U&s" alt="SEPAL" width="45"/>](https://sepal.io/)
+[<img src="https://www.openforis.org/wp-content/uploads/2025/10/OpenForis-collect-small-Logo.svg" alt="Collect Earth" width="35"/>](https://collect.earth/)
 
 </div>
 
