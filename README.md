@@ -157,13 +157,20 @@ analysis. Happy coding.
 
 </div>
 
-##### Github Stats & Gists
+##### Stats & Gists
 
 <div align="center">
 
+[![GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/seamusrobertmurphy/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/seamusrobertmurphy/github-readme-stats#gh-light-mode-only)
+
+
+
 [![Seamus's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy)](https://github.com/seamusrobertmurphy/github-readme-stats-fast)
 
-[![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b)](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b)
+[![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&show_owner=true)](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seamusrobertmurphy&layout=donut-vertical)](https://github.com/seamusrobertmurphy/github-readme-stats)
 
 </div>
 
