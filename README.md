@@ -195,9 +195,9 @@ analysis. Happy coding.
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="4">
         <a href="https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b">
-          <img src="https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&show_owner=true" alt="Gist Card"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&description_lines_count=2" alt="Gist Card"/>
         </a>
       </td>
     </tr>
