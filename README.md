@@ -105,7 +105,7 @@ analysis. Happy coding.
 
 ##### Tools & Packages
 
-[<img src="https://saga-gis.sourceforge.io/_images/logo_saga.png){width="35"}](https://saga-gis.sourceforge.io)
+[<img src="https://saga-gis.sourceforge.io/_images/logo_saga.png" width="35"/>](https://saga-gis.sourceforge.io)
 [<img src="https://open-eo.github.io/openeo-r-client/reference/figures/logo.png" width="36"/>](https://open-eo.github.io)
 [<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-platform-220.png" width="35"/>](https://www.esriuk.com/en-gb/arcgis/products/arcgis-online/overview)
 [<img src="https://eos-gnss.com/wp-content/uploads/2021/04/ArcGIS-Field-Maps-Android.png" width="36"/>](https://www.esri.com/)
@@ -119,7 +119,7 @@ analysis. Happy coding.
 
 ##### Spatial Libraries
 
-[<img src="https://avatars.githubusercontent.com/u/1058467?s=48&amp;v=4" alt="git" width="35"/>](https://gdal.org/)
+[<img src="https://avatars.githubusercontent.com/u/1058467?s=48&amp;v=4" width="35"/>](https://gdal.org/)
 [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools)
 [<img src="https://rapidlasso.de/wp-content/uploads/2023/03/Logo-Rapidlasso.svg" width="35"/>](https://rapidlasso.de)
 [<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" alt="git" width="30" height="35"/>](https://github.com/r-lidar/lidR)
