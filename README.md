@@ -1,12 +1,9 @@
 ::: {align="center"}
 <h1>Seamus Murphy</h1>
 
-[![LinkedIn
-Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
-[![Pubs
-Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ)
-[![CV
-Badge](https://img.shields.io/badge/My-CV-critical)](https://seamusrobertmurphy.quarto.pub/bio/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
+[![Pubs Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://seamusrobertmurphy.quarto.pub/bio/)
 :::
 
 ----------------------------------------------------------------------
@@ -108,7 +105,7 @@ analysis. Happy coding.
 
 ##### Tools & Packages
 
-[![](https://saga-gis.sourceforge.io/_images/logo_saga.png){width="35"}](https://saga-gis.sourceforge.io)
+[<img src="https://saga-gis.sourceforge.io/_images/logo_saga.png){width="35"}](https://saga-gis.sourceforge.io)
 [<img src="https://open-eo.github.io/openeo-r-client/reference/figures/logo.png" width="36"/>](https://open-eo.github.io)
 [<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-platform-220.png" width="35"/>](https://www.esriuk.com/en-gb/arcgis/products/arcgis-online/overview)
 [<img src="https://eos-gnss.com/wp-content/uploads/2021/04/ArcGIS-Field-Maps-Android.png" width="36"/>](https://www.esri.com/)
@@ -143,19 +140,11 @@ analysis. Happy coding.
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
 [<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
 
-##### GitHub stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seamusrobertmurphy&rank_icon=github&theme=transparent)](https://github.com/seamusrobertmurphy)
-
-##### Most used languages
-
+##### Github Stats & Gists
 
 [![Seamus's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy)](https://github.com/seamusrobertmurphy/github-readme-stats-fast)
 
-
 [![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b)](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b)
-
-
 
 
 
