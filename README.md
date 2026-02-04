@@ -106,13 +106,7 @@ analysis. Happy coding.
 [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="35"/>](https://www.postgresql.org/)
 [<img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="45"/>](https://www.docker.com/)
 [<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="35"/>](https://jupyter.org/)
-[<img src="https://lpdaac.usgs.gov/media/images/LP_DAAC_logo.width-300.png" alt="MODIS" width="45"/>](https://modis.gsfc.nasa.gov/)
 [<img src="https://sentinels.copernicus.eu/image/layout_set_logo?img_id=5289281&t=1612791925177" alt="Sentinel" width="35"/>](https://sentinels.copernicus.eu/)
-[<img src="https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/landsat-logo.png" alt="Landsat" width="35"/>](https://landsat.gsfc.nasa.gov/)
-[<img src="https://www.esa.int/extension/pillars/design/pillars/images/ESA_logo.png" alt="ESA" width="45"/>](https://www.esa.int/)
-[<img src="https://www.jpl.nasa.gov/images/jpl-logo.png" alt="NASA JPL" width="35"/>](https://www.jpl.nasa.gov/)
-[<img src="https://gpm.nasa.gov/sites/default/files/document_files/GPM-Logo-Transparent.png" alt="GPM" width="35"/>](https://gpm.nasa.gov/)
-[<img src="https://developers.google.com/static/earth-engine/images/hansen.png" alt="Hansen GFC" width="35"/>](https://glad.earthengine.app/view/global-forest-change)
 
 </div>
 
@@ -135,11 +129,11 @@ analysis. Happy coding.
 [<img src="https://whitebox-tools.readthedocs.io/en/latest/_static/img/WhiteboxToolsLogo.svg" alt="WhiteboxTools" width="35"/>](https://www.whiteboxgeo.com/)
 [<img src="https://raw.githubusercontent.com/geocompx/geocompr/main/images/cover.png" alt="geocompr" width="26"/>](https://r.geocompx.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" alt="ArcGIS Pro" width="35"/>](https://www.esri.com/en-us/arcgis/products/arcgis-pro/)
-[<img src="https://www.sentinel-hub.com/img/logo.svg" alt="Sentinel Hub" width="45"/>](https://www.sentinel-hub.com/)
-[<img src="https://raw.githubusercontent.com/davemlz/eemont/main/docs/_static/eemont.png" alt="eemont" width="35"/>](https://eemont.readthedocs.io/)
-[<img src="https://raw.githubusercontent.com/davemlz/awesome-ee-python/main/images/awesome-ee-python.png" alt="awesome-ee" width="35"/>](https://github.com/davemlz/awesome-ee-python)
-[<img src="https://wxee.readthedocs.io/en/latest/_static/wxee.png" alt="wxee" width="35"/>](https://wxee.readthedocs.io/)
-[<img src="https://github.com/KMarkert/cartoee/raw/main/docs/img/cartoee_logo.png" alt="cartoee" width="35"/>](https://github.com/KMarkert/cartoee)
+[<img src="https://geetools.readthedocs.io/en/stable/_images/logo.png" alt="Sentinel Hub" width="45"/>](https://geetools.readthedocs.io/en/stable/)
+[<img src="https://raw.githubusercontent.com/davemlz/eemont/master/docs/_static/header2.png" alt="eemont" width="35"/>](https://eemont.readthedocs.io/)
+[<img src="https://earthengine.google.com/static/images/earth_engine_icon.png" alt="awesome-ee" width="35"/>](https://earthengine.google.com/)
+[<img src="https://book.geemap.org/_static/logo.png" alt="awesome-ee" width="35"/>](https://book.geemap.org/)
+
 
 </div>
 
