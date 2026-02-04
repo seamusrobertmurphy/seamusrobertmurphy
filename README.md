@@ -1,5 +1,4 @@
-<div align='center'>
-
+::: {align="center"}
 <h1>Seamus Murphy</h1>
 
 [![LinkedIn
@@ -8,7 +7,7 @@ Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/
 Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ)
 [![CV
 Badge](https://img.shields.io/badge/My-CV-critical)](https://seamusrobertmurphy.quarto.pub/bio/)
-</div>
+:::
 
 ----------------------------------------------------------------------
 
@@ -109,7 +108,7 @@ analysis. Happy coding.
 
 ##### Tools & Packages
 
-[<img src="https://saga-gis.sourceforge.io/_images/logo_saga.png" width="35"/>](https://saga-gis.sourceforge.io)
+[![](https://saga-gis.sourceforge.io/_images/logo_saga.png){width="35"}](https://saga-gis.sourceforge.io)
 [<img src="https://open-eo.github.io/openeo-r-client/reference/figures/logo.png" width="36"/>](https://open-eo.github.io)
 [<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-platform-220.png" width="35"/>](https://www.esriuk.com/en-gb/arcgis/products/arcgis-online/overview)
 [<img src="https://eos-gnss.com/wp-content/uploads/2021/04/ArcGIS-Field-Maps-Android.png" width="36"/>](https://www.esri.com/)
@@ -132,7 +131,7 @@ analysis. Happy coding.
 [<img src="https://stacspec.org/public/images-original/STAC-01.png" width="49"/>](https://stacspec.org)
 [<img src="http://www.brazildatacube.org/wp-content/uploads/2020/12/rStac_logo-768x889.png" width="30"/>](http://www.brazildatacube.org)
 [<img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="31"/>](https://github.com/rspatial/terra)
-[<img src="https://avatars.githubusercontent.com/u/12664233?s=48&v=4" height="35"/>](https://github.com/e-sensing/sitsbook)
+[<img src="https://avatars.githubusercontent.com/u/12664233?s=48&amp;v=4" height="35"/>](https://github.com/e-sensing/sitsbook)
 [<img src="https://gdalcubes.github.io/source/gdalcubes_logo_mini.png" alt="quarto" width="35"/>](https://gdalcubes.github.io)
 
 ----------------------------------------------------------------------
@@ -144,12 +143,10 @@ analysis. Happy coding.
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
 [<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
 
-
 ##### GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seamusrobertmurphy&rank_icon=github&theme=transparent)](https://github.com/seamusrobertmurphy) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seamusrobertmurphy&rank_icon=github&theme=transparent)](https://github.com/seamusrobertmurphy)
 
 ##### Most used languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seamusrobertmurphy&hide=html,tex,ts,php,lua&langs_count=8&theme=transparent)
-
