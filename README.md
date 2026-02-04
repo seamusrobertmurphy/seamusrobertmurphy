@@ -60,8 +60,7 @@ analysis. Happy coding.
     biomass models to comply with ART-TREES requirements, focusing on
     statistical bias correction (*2025-02-16*).
     
--   [**REDD+**](https://seamusrobertmurphy.quarto.pub/redd-uncertainty-training/)  
-    **Uncertainty Training**: Foundational training curriculum on uncertainty 
+-   [**REDD+**](https://seamusrobertmurphy.quarto.pub/redd-uncertainty-training/) **Uncertainty Training**: Foundational training curriculum on uncertainty 
     quantification in jurisdictional REDD+ carbon accounting, covering 
     allometric equations, emission factors, activity data, and Monte Carlo 
     error propagation methods in compliance with ART-TREES Standard V2.0 and 
