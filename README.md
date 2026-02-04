@@ -1,4 +1,4 @@
-::: {align="center"}
+:::{align="center"}
 <h1>Seamus Murphy</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
@@ -175,4 +175,32 @@ analysis. Happy coding.
 </div>
 
 
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/seamusrobertmurphy/github-readme-stats#gh-dark-mode-only">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub stats-Dark"/>
+        </a>
+        <a href="https://github.com/seamusrobertmurphy/github-readme-stats#gh-light-mode-only">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub stats-Light"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/seamusrobertmurphy/github-readme-stats">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seamusrobertmurphy&layout=compact&langs_count=8" alt="Top Langs"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b">
+          <img src="https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&show_owner=true" alt="Gist Card"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
