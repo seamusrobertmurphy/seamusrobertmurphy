@@ -149,20 +149,15 @@ analysis. Happy coding.
 
 ##### Most used languages
 
-[!Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seamusrobertmurphy&hide=html,tex,ts,php,lua&langs_count=8&theme=transparent)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)'
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/seamusrobertmurphy/bbfce31e0217a3689c8d961a356cb10d/)
-
-
 
 [![Seamus's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy)](https://github.com/seamusrobertmurphy/github-readme-stats-fast)
+
+
+[![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b)](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b)
+
+
+
+
 
 
 
