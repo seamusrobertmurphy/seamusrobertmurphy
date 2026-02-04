@@ -74,7 +74,7 @@ analysis. Happy coding.
     (*2022-02-24*).
 
 -   [**Maps**](https://seamusrobertmurphy.quarto.pub/map-templates/)
-    **Templates for Interactive and Static Mapping of Operational Sites** of field operations, site
+    **Templates for Interactive and Static Site Maps** of field operations, site
     visualization, and landscape analysis, including symbology and
     layout generation (*2024-12-04*).
 
