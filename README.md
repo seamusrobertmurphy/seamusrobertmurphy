@@ -102,6 +102,17 @@ analysis. Happy coding.
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="35" width="35"/>](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/knitr.png" alt="Knitr" width="30" height="35"/>](https://yihui.org/knitr/)
 [<img src="https://avatars.githubusercontent.com/u/67437475?s=200&amp;v=4" alt="quarto" width="35"/>](https://github.com/quarto-dev)[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="shiny" width="30" height="35"/>](http://shiny.rstudio.com/)
+[<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="35"/>](https://www.python.org/)
+[<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="35"/>](https://www.postgresql.org/)
+[<img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="45"/>](https://www.docker.com/)
+[<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="35"/>](https://jupyter.org/)
+[<img src="https://lpdaac.usgs.gov/media/images/LP_DAAC_logo.width-300.png" alt="MODIS" width="45"/>](https://modis.gsfc.nasa.gov/)
+[<img src="https://sentinels.copernicus.eu/image/layout_set_logo?img_id=5289281&t=1612791925177" alt="Sentinel" width="35"/>](https://sentinels.copernicus.eu/)
+[<img src="https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/landsat-logo.png" alt="Landsat" width="35"/>](https://landsat.gsfc.nasa.gov/)
+[<img src="https://www.esa.int/extension/pillars/design/pillars/images/ESA_logo.png" alt="ESA" width="45"/>](https://www.esa.int/)
+[<img src="https://www.jpl.nasa.gov/images/jpl-logo.png" alt="NASA JPL" width="35"/>](https://www.jpl.nasa.gov/)
+[<img src="https://gpm.nasa.gov/sites/default/files/document_files/GPM-Logo-Transparent.png" alt="GPM" width="35"/>](https://gpm.nasa.gov/)
+[<img src="https://developers.google.com/static/earth-engine/images/hansen.png" alt="Hansen GFC" width="35"/>](https://glad.earthengine.app/view/global-forest-change)
 
 </div>
 
@@ -120,6 +131,15 @@ analysis. Happy coding.
 [<img src="https://r-spatial.github.io/sf/logo.png" alt="Knitr" width="35"/>](https://r-spatial.github.io/sf)
 [<img src="https://cdn0.iconfinder.com/data/icons/fruit-and-vegetables-11/64/VEGETABLES_4-05-512.png" width="35"/>](https://topepo.github.io/caret/)
 [<img src="https://images.routledge.com/common/jackets/crclarge/978148221/9781482210200.jpg" alt="shiny" width="26"/>](https://spatstat.org)
+[<img src="https://avatars.githubusercontent.com/u/476009?s=200&v=4" alt="QGIS" width="35"/>](https://qgis.org/)
+[<img src="https://whitebox-tools.readthedocs.io/en/latest/_static/img/WhiteboxToolsLogo.svg" alt="WhiteboxTools" width="35"/>](https://www.whiteboxgeo.com/)
+[<img src="https://raw.githubusercontent.com/geocompx/geocompr/main/images/cover.png" alt="geocompr" width="26"/>](https://r.geocompx.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" alt="ArcGIS Pro" width="35"/>](https://www.esri.com/en-us/arcgis/products/arcgis-pro/)
+[<img src="https://www.sentinel-hub.com/img/logo.svg" alt="Sentinel Hub" width="45"/>](https://www.sentinel-hub.com/)
+[<img src="https://raw.githubusercontent.com/davemlz/eemont/main/docs/_static/eemont.png" alt="eemont" width="35"/>](https://eemont.readthedocs.io/)
+[<img src="https://raw.githubusercontent.com/davemlz/awesome-ee-python/main/images/awesome-ee-python.png" alt="awesome-ee" width="35"/>](https://github.com/davemlz/awesome-ee-python)
+[<img src="https://wxee.readthedocs.io/en/latest/_static/wxee.png" alt="wxee" width="35"/>](https://wxee.readthedocs.io/)
+[<img src="https://github.com/KMarkert/cartoee/raw/main/docs/img/cartoee_logo.png" alt="cartoee" width="35"/>](https://github.com/KMarkert/cartoee)
 
 </div>
 
@@ -140,6 +160,14 @@ analysis. Happy coding.
 [<img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="31"/>](https://github.com/rspatial/terra)
 [<img src="https://avatars.githubusercontent.com/u/12664233?s=48&amp;v=4" height="35"/>](https://github.com/e-sensing/sitsbook)
 [<img src="https://gdalcubes.github.io/source/gdalcubes_logo_mini.png" alt="quarto" width="35"/>](https://gdalcubes.github.io)
+[<img src="https://raw.githubusercontent.com/r-spatial/stars/main/man/figures/logo.png" alt="stars" width="31"/>](https://r-spatial.github.io/stars/)
+[<img src="https://docs.ropensci.org/MODIStsp/reference/figures/logo.png" alt="MODIStsp" width="35"/>](https://docs.ropensci.org/MODIStsp/)
+[<img src="https://postgis.net/brand/postgis-logo.png" alt="PostGIS" width="35"/>](https://postgis.net/)
+[<img src="https://www.geos.ed.ac.uk/~gisteac/procenv/images/grass_logo.png" alt="GRASS GIS" width="35"/>](https://grass.osgeo.org/)
+[<img src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" alt="rasterio" width="35"/>](https://rasterio.readthedocs.io/)
+[<img src="https://geopandas.org/en/stable/_static/geopandas_logo.png" alt="geopandas" width="45"/>](https://geopandas.org/)
+[<img src="https://sepal.io/img/sepal-logo.png" alt="SEPAL" width="45"/>](https://sepal.io/)
+[<img src="https://cdn.collect.earth/img/ceo-logo.png" alt="Collect Earth" width="35"/>](https://collect.earth/)
 
 </div>
 
@@ -153,7 +181,18 @@ analysis. Happy coding.
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](#0)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
 [<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
-
+[<img src="https://earthengine.google.com/static/images/earth-engine-logo.png" alt="GEE" width="35"/>](https://earthengine.google.com/)
+[<img src="https://avatars.githubusercontent.com/u/11897326?s=200&v=4" alt="geemap" width="35"/>](https://geemap.org/)
+[<img src="https://raw.githubusercontent.com/r-spatial/rgee/master/man/figures/logo.png" alt="rgee" width="35"/>](https://github.com/r-spatial/rgee)
+[<img src="https://earthengine.google.com/static/images/earth-engine-logo.png" alt="eemont" width="35"/>](https://github.com/davemlz/eemont)
+[<img src="https://raw.githubusercontent.com/davemlz/spectral/main/docs/_static/spectral.png" alt="spectral" width="35"/>](https://github.com/davemlz/spectral)
+[<img src="https://raw.githubusercontent.com/gee-community/geetools/master/docs/_static/geetools_logo.png" alt="geetools" width="35"/>](https://github.com/gee-community/geetools)
+[<img src="https://raw.githubusercontent.com/gee-community/earthengine-catalog/main/logo.png" alt="GEE Catalog" width="35"/>](https://developers.google.com/earth-engine/datasets/)
+[<img src="https://code.earthengine.google.com/static/img/code-editor-logo.png" alt="Code Editor" width="35"/>](https://code.earthengine.google.com/)
+[<img src="https://avatars.githubusercontent.com/u/28969652?s=200&v=4" alt="earthengine-py-notebooks" width="35"/>](https://github.com/giswqs/earthengine-py-notebooks)
+[<img src="https://raw.githubusercontent.com/google/earthengine-api/master/python/examples/ipynb/images/logo.png" alt="ee-api" width="35"/>](https://github.com/google/earthengine-api)
+[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_earth_logo_icon_171064.png" alt="Google Earth" width="35"/>](https://www.google.com/earth/)
+[<img src="https://github.com/sentinel-hub/eo-learn/raw/master/docs/source/figures/eolearn_logo.png" alt="eo-learn" width="45"/>](https://eo-learn.readthedocs.io/)
 
 </div>
 
