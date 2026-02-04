@@ -89,6 +89,8 @@ analysis. Happy coding.
 
 ##### Languages & Platforms
 
+<div align="center">
+
 [<img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="ubuntu" width="35"/>](https://www.releases.ubuntu.com/)
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35"/>](https://www.gnu.org/software/bash/)
 [<img src="https://geomoer.github.io/moer-base-r/assets/images/unit_images/u01/grid.png" alt="rstudio" width="53"/>](https://posit.co)
@@ -101,9 +103,13 @@ analysis. Happy coding.
 [<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/knitr.png" alt="Knitr" width="30" height="35"/>](https://yihui.org/knitr/)
 [<img src="https://avatars.githubusercontent.com/u/67437475?s=200&amp;v=4" alt="quarto" width="35"/>](https://github.com/quarto-dev)[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="shiny" width="30" height="35"/>](http://shiny.rstudio.com/)
 
+</div>
+
 ----------------------------------------------------------------------
 
 ##### Tools & Packages
+
+<div align="center">
 
 [<img src="https://saga-gis.sourceforge.io/_images/logo_saga.png" width="35"/>](https://saga-gis.sourceforge.io)
 [<img src="https://open-eo.github.io/openeo-r-client/reference/figures/logo.png" width="36"/>](https://open-eo.github.io)
@@ -115,9 +121,13 @@ analysis. Happy coding.
 [<img src="https://cdn0.iconfinder.com/data/icons/fruit-and-vegetables-11/64/VEGETABLES_4-05-512.png" width="35"/>](https://topepo.github.io/caret/)
 [<img src="https://images.routledge.com/common/jackets/crclarge/978148221/9781482210200.jpg" alt="shiny" width="26"/>](https://spatstat.org)
 
+</div>
+
 ----------------------------------------------------------------------
 
 ##### Spatial Libraries
+
+<div align="center">
 
 [<img src="https://avatars.githubusercontent.com/u/1058467?s=48&amp;v=4" width="35"/>](https://gdal.org/)
 [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools)
@@ -131,22 +141,31 @@ analysis. Happy coding.
 [<img src="https://avatars.githubusercontent.com/u/12664233?s=48&amp;v=4" height="35"/>](https://github.com/e-sensing/sitsbook)
 [<img src="https://gdalcubes.github.io/source/gdalcubes_logo_mini.png" alt="quarto" width="35"/>](https://gdalcubes.github.io)
 
+</div>
+
 ----------------------------------------------------------------------
 
 ##### Workspaces
+
+<div align="center">
 
 [<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/>](#0)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](#0)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
 [<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
 
+
+</div>
+
 ##### Github Stats & Gists
+
+<div align="center">
 
 [![Seamus's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy)](https://github.com/seamusrobertmurphy/github-readme-stats-fast)
 
 [![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b)](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b)
 
-
+</div>
 
 
 
