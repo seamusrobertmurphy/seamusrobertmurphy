@@ -143,7 +143,7 @@ analysis. Happy coding.
 [<img src="https://raw.githubusercontent.com/geocompx/geocompr/main/images/cover.png" alt="geocompr" width="26"/>](https://r.geocompx.org/)
 [<img src="https://cdn.arcgis.com/sharing/rest/content/items/f555c7ac365b4e3287a77c75e410b827/resources/4iL1qzHBpmppt_jg95PO9.svg" alt="ArcGIS Pro" width="35"/>](https://www.esri.com/en-us/arcgis/products/arcgis-pro/)
 [<img src="https://geetools.readthedocs.io/en/stable/_images/logo.png" alt="Sentinel Hub" width="45"/>](https://geetools.readthedocs.io/en/stable/)
-[<img src="https://raw.githubusercontent.com/davemlz/eemont/master/docs/_static/header2.png" alt="eemont" width="35"/>](https://eemont.readthedocs.io/)
+[<img src="https://raw.githubusercontent.com/davemlz/davemlz/main/eemont.png" alt="eemont" width="35"/>](https://eemont.readthedocs.io/)
 [<img src="https://book.geemap.org/_static/logo.png" alt="awesome-ee" width="35"/>](https://book.geemap.org/)
 [<img src="https://user-images.githubusercontent.com/6677629/193518988-956b9571-169d-4a79-89a8-d347d46c1af7.png" alt="GEE Catalog" width="35"/>](https://developers.google.com/earth-engine/datasets/)
 [<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Code Editor" width="35"/>](https://code.earthengine.google.com/)
