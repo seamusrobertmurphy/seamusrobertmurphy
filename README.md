@@ -160,3 +160,9 @@ analysis. Happy coding.
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/seamusrobertmurphy/bbfce31e0217a3689c8d961a356cb10d/)
 
+
+
+[![Seamus's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy)](https://github.com/seamusrobertmurphy/github-readme-stats-fast)
+
+
+
