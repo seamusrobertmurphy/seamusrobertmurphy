@@ -66,14 +66,14 @@ analysis. Happy coding.
     error propagation methods in compliance with ART-TREES Standard V2.0 and 
     IPCC 2019 guidelines (*2026-01-09*).
 
--   [**CFFDRS-Wildfire-Risk**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
+-   [**Wildfires-CFFDRS**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
     **Canadian Forest Fire Danger Rating System** pipeline for
     reproducible wildfire risk mapping, fuel typing and burn
     prediction metrics in British Columbia's Okanagan Watershed using
     the updated CFFDRS V2.0 framework and `cffdrs` package
     (*2022-02-24*).
 
--   [**IPCC-Wildfire-Emissions**](seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
+-   [**Wildfires-IPCC**](seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
     **IPCC Tier 1 Forest Fire Emissions** workflow following the 2019 
     Refinement and FAOSTAT protocols burned area extraction from MODIS 
     MCD64A1 in Google Earth Engine, fuel stratification, emission factor 
