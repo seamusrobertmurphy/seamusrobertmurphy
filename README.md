@@ -66,12 +66,20 @@ analysis. Happy coding.
     error propagation methods in compliance with ART-TREES Standard V2.0 and 
     IPCC 2019 guidelines (*2026-01-09*).
 
--   [**CFFDRS**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
+-   [**CFFDRS-Wildfire-Risk**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
     **Canadian Forest Fire Danger Rating System** pipeline for
     reproducible wildfire risk mapping, fuel typing and burn
     prediction metrics in British Columbia's Okanagan Watershed using
     the updated CFFDRS V2.0 framework and `cffdrs` package
     (*2022-02-24*).
+
+-   [**IPCC-Wildfire-Emissions**](seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
+    **IPCC Tier 1 Forest Fire Emissions** workflow following the 2019 
+    Refinement and FAOSTAT protocols burned area extraction from MODIS 
+    MCD64A1 in Google Earth Engine, fuel stratification, emission factor 
+    application (Eq. 2.27), and uncertainty propagation. Structured for NGHGI 
+    reporting and carbon audit validation.
+    (*2025-11-06*).
 
 -   [**Maps**](https://seamusrobertmurphy.quarto.pub/map-templates/)
     **Templates for Interactive and Static Site Maps** of field operations, site
@@ -100,7 +108,7 @@ analysis. Happy coding.
 
 ----------------------------------------------------------------------
 
-##### Languages & Platforms
+##### Languages, Platforms, Ecosystems
 
 <div align="center">
 
@@ -117,9 +125,9 @@ analysis. Happy coding.
 [<img src="https://avatars.githubusercontent.com/u/67437475?s=200&amp;v=4" alt="quarto" width="35"/>](https://github.com/quarto-dev)[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="shiny" width="30" height="35"/>](http://shiny.rstudio.com/)
 [<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="35"/>](https://www.python.org/)
 [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="35"/>](https://www.postgresql.org/)
-[<img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="45"/>](https://www.docker.com/)
 [<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="35"/>](https://jupyter.org/)
-[<img src="https://sentinels.copernicus.eu/image/layout_set_logo?img_id=5289281&t=1612791925177" alt="Sentinel" width="35"/>](https://sentinels.copernicus.eu/)
+[<img src="https://www.svgrepo.com/show/510065/markdown.svg" alt="Markdown" width="35"/>](https://jupyter.org/)
+
 
 </div>
 
@@ -147,13 +155,14 @@ analysis. Happy coding.
 [<img src="https://book.geemap.org/_static/logo.png" alt="awesome-ee" width="35"/>](https://book.geemap.org/)
 [<img src="https://user-images.githubusercontent.com/6677629/193518988-956b9571-169d-4a79-89a8-d347d46c1af7.png" alt="GEE Catalog" width="35"/>](https://developers.google.com/earth-engine/datasets/)
 [<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Code Editor" width="35"/>](https://code.earthengine.google.com/)
+[<img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="45"/>](https://www.docker.com/)
 
 
 </div>
 
 ----------------------------------------------------------------------
 
-##### Spatial Libraries
+##### Libraries & Collections
 
 <div align="center">
 
@@ -176,6 +185,7 @@ analysis. Happy coding.
 [<img src="https://avatars.githubusercontent.com/u/1212750?s=200&v=4" alt="OPENFORIS" width="45"/>](https://github.com/openforis)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO2BBECcflpS7-hU8o8kBVWnmJPA0rmjmIa3rOjaq6OBT3J2YnyB_1X2U&s" alt="SEPAL" width="45"/>](https://sepal.io/)
 [<img src="https://www.openforis.org/wp-content/uploads/2025/10/OpenForis-collect-small-Logo.svg" alt="Collect Earth" width="35"/>](https://collect.earth/)
+[<img src="https://sentinels.copernicus.eu/image/layout_set_logo?img_id=5289281&t=1612791925177" alt="Sentinel" width="35"/>](https://sentinels.copernicus.eu/)
 
 </div>
 
