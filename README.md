@@ -60,7 +60,8 @@ analysis. Happy coding.
     biomass models to comply with ART-TREES requirements, focusing on
     statistical bias correction (*2025-02-16*).
     
--   [**REDD+**](https://seamusrobertmurphy.quarto.pub/redd-uncertainty-training/) **Uncertainty Training**: Foundational training curriculum on uncertainty 
+-   [**REDD+**](https://seamusrobertmurphy.quarto.pub/redd-uncertainty-training/) 
+    **Uncertainty Training**: Foundational training curriculum on uncertainty 
     quantification in jurisdictional REDD+ carbon accounting, covering 
     allometric equations, emission factors, activity data, and Monte Carlo 
     error propagation methods in compliance with ART-TREES Standard V2.0 and 
@@ -73,7 +74,7 @@ analysis. Happy coding.
     the updated CFFDRS V2.0 framework and `cffdrs` package
     (*2022-02-24*).
 
--   [**Wildfires-IPCC**](seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
+-   [**Wildfires-IPCC**](https://seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
     **IPCC Tier 1 Forest Fire Emissions** workflow following the 2019 
     Refinement and FAOSTAT protocols burned area extraction from MODIS 
     MCD64A1 in Google Earth Engine, fuel stratification, emission factor 
