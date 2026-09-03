@@ -60,7 +60,7 @@ analysis. Happy coding.
     biomass models to comply with ART-TREES requirements, focusing on
     statistical bias correction (*2025-02-16*).
     
--   [**REDD+**](https://seamusrobertmurphy.quarto.pub/redd-uncertainty-training/) 
+-   [**REDD+**](https://training-resource.github.io/uncertainty/) 
     **Uncertainty Training**: Foundational training curriculum on uncertainty 
     quantification in jurisdictional REDD+ carbon accounting, covering 
     allometric equations, emission factors, activity data, and Monte Carlo 
@@ -97,7 +97,7 @@ analysis. Happy coding.
     **Point Clouds Processing** workflow for High-Resolution Terrain
     and Canopy Modeling from Airborne LiDAR Data (*2021-11-09*).
 
--   [**Wetlands**](https://rpubs.com/seamusmurphy/mapping-endorheic-wetland-dynamics)
+-   [**Wetlands**](https://seamusrobertmurphy.github.io/mapping-wetland-inundation-lake-chilwa/)
     **Delineation Using SAR & Landsat Workflow** for mapping endorheic
     wetland dynamics combining Sentinel-1 and Landsat time series with
     community ecological knowledge (*2024-06-15*).
