@@ -45,18 +45,17 @@ analysis. Happy coding.
     under ART-TREES methodology (*2025-08-11*).
 
 -   [**ART-TREES**](https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty)
-    **Monte Carlo** Script for applying resampling technique to uncertainty 
-    estimation of REDD+ emission factors and activity data in compliance with
-    ART-TREES Standard V2.0 (*2024-12-19*).
+    **Monte Carlo** Analysis applying resampling technique to emission factors 
+    and activity data in compliance with ART-TREES Standard V2.0 (*2024-12-19*).
 
 -   [**ART-TREES**](https://seamusmurphy.shinyapps.io/winrock-monte-carlo/) 
-    **Uncertainty Estimator** Platform: Interactive Shiny application for uncertainty 
+    **Uncertainty Estimator**: Interactive Shiny application for uncertainty 
     quantification and hyperparameter tuning in REDD+ carbon accounting, 
     featuring normality testing, distribution fitting, bootstrap resampling, 
     and machine learning-based uncertainty reduction for emission factors and 
     activity data (*2024-11-14*).
     
--   [**ART-TREES**](https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation)
+-   [**ART-TREES**](https://seamusrobertmurphy.quarto.pub/allometry-validation)
     **Allometry Vallidator** for validating and calibrating allometric
     biomass models to comply with ART-TREES requirements, focusing on
     statistical bias correction (*2025-02-16*).
