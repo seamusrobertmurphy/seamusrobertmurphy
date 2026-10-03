@@ -39,7 +39,8 @@ analysis. Happy coding.
     factors using satellite data and socioeconomic indicators for
     jurisdictional REDD+ programs (*2024-11-06*).
 
--   [**ART-TREES**](#0) **Demo Repository** showcasing best practices
+-   [**ART-TREES**](https://seamusrobertmurphy.quarto.pub/art-trees-demo-repo/) 
+    **Demo Repository** showcasing best practices
     in version control for reproducible GHG calculation workflows
     under ART-TREES methodology (*2025-08-11*).
 
@@ -49,7 +50,7 @@ analysis. Happy coding.
     ART-TREES Standard V2.0 (*2024-12-19*).
 
 -   [**ART-TREES**](https://seamusmurphy.shinyapps.io/winrock-monte-carlo/) 
-    **Monte Carlo** Platform: Interactive Shiny application for uncertainty 
+    **Uncertainty Estimator** Platform: Interactive Shiny application for uncertainty 
     quantification and hyperparameter tuning in REDD+ carbon accounting, 
     featuring normality testing, distribution fitting, bootstrap resampling, 
     and machine learning-based uncertainty reduction for emission factors and 
