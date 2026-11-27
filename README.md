@@ -19,7 +19,7 @@ analysis. Happy coding.
 
 ----------------------------------------------------------------------
 
-### Projects
+### Guides
 
 -   [**REDD+**](https://training-resource.github.io/uncertainty/)
     **Uncertainty** training curriculum on uncertainty quantification
@@ -89,14 +89,13 @@ analysis. Happy coding.
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35"/>](https://code.visualstudio.com/)
 [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35"/>](https://heroku.com)
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35"/>](https://www.sqlite.org/)
-[<img src="https://novasoft.global/wp-content/uploads/2020/04/ms-dynamics365-logo.png" alt="Dynamics365" width="35"/>](https://www.microsoft.com/en-us/dynamics-365/)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="35" width="35"/>](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/knitr.png" alt="Knitr" width="30" height="35"/>](https://yihui.org/knitr/)
-[<img src="https://avatars.githubusercontent.com/u/67437475?s=200&amp;v=4" alt="quarto" width="35"/>](https://github.com/quarto-dev)[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="shiny" width="30" height="35"/>](http://shiny.rstudio.com/)
-[<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="35"/>](https://www.python.org/)
-[<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="35"/>](https://www.postgresql.org/)
-[<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="35"/>](https://jupyter.org/)
-[<img src="https://www.svgrepo.com/show/510065/markdown.svg" alt="Markdown" width="35"/>](https://jupyter.org/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="35" width="35"/>](#0)
+[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/knitr.png" alt="Knitr" width="30" height="35"/>](#0)
+[<img src="https://avatars.githubusercontent.com/u/67437475?s=200&amp;v=4" alt="quarto" width="35"/><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="shiny" width="30" height="35"/>](#0)
+[<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="35"/>](#0)
+[<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="35"/>](#0)
+[<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="35"/>](#0)
+[<img src="https://www.svgrepo.com/show/510065/markdown.svg" alt="Markdown" width="35"/>](#0)
 :::
 
 ----------------------------------------------------------------------
