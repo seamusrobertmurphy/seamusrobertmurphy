@@ -1,86 +1,75 @@
 <div align="center">
 <h1>Seamus Murphy</h1>
 
-[![LinkedIn
-Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/seamusrobertmurphy/)
-[![Pubs
-Badge](https://img.shields.io/badge/My-Pubs-critical)](https://scholar.google.com/citations?hl=en&user=jDGq9I4AAAAJ)
-[![CV
-Badge](https://img.shields.io/badge/My-CV-critical)](https://seamusrobertmurphy.quarto.pub/bio/)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](https://www.researchgate.net/profile/Seamus-Murphy-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](https://www.linkedin.com/in/seamusrobertmurphy/?isSelfProfile=true)
+[<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jDGq9I4AAAAJ)
+
 </div>
+
 ----------------------------------------------------------------------
 
-I am a forester interested in enhanced forest inventories, carbon
-modelling, landcover change mapping and spatial patterns of
-disturbance ecology. Past repositories include resource & stakeholder
-mapping, household consumption & nutrition, livelihood & value chain
-analysis. Happy coding.
+I am a forester interested in enhanced forest inventories, landcover mapping, 
+and disturbance ecology patterns. Past repositories include resource-use
+mapping, household consumption and value chain analysis. Happy coding.
 
 ----------------------------------------------------------------------
 
 ### Guides
 
 -   [**REDD+**](https://training-resource.github.io/uncertainty/)
-    **Uncertainty** training curriculum on uncertainty quantification
-    in jurisdictional REDD+ carbon accounting, covering allometric
-    equations, emission factors, activity data, and Monte Carlo error
-    propagation methods in compliance with ART-TREES Standard V2.0 and
-    IPCC 2019 guidelines (*2026-01-09*).
+    **Training** in uncertainty statistics for jurisdictional programs 
+    incl. allometry, emission factors, activity data, and error
+    propagation following IPCC 2019 guidelines and ART-TREES Standard V2.0 (*2026-01-09*).
 
 -   [**VM0048**](https://seamusrobertmurphy.quarto.pub/vm0048/)
-    **Jurisdictional REDD+** guide to Verra’s consolidated
-    methodology, including jurisdictional baseline emissions
-    estimates, spatial deforestation risk mapping, and leakage belt
-    delineation (*2025-01-04*).
+    **Guide to Verra’s consolidated methodology for jurisdictional REDD+ programs, 
+    incl. emissions baseline, leakage area, risk mapping and credit distribution (*2025-01-04*).
 
 -   [**VM0010**](https://seamusrobertmurphy.github.io/VM0010-starter-template/)
     **IFM Template** for MRV reporting template for Improved Forest
-    Management projects, with standardized procedures for inventory,
-    carbon stock, and logging emissions reporting (*2024-11-04*).
+    Management projects incl. logging operations, extaction and haulage (*2024-11-04*).
 
 -   [**ART-TREES**](https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty)
-    **Monte Carlo** Analysis applying resampling technique to emission
-    factors and activity data in compliance with ART-TREES Standard
-    V2.0 (*2024-12-19*).
+    **Monte Carlo** tools for resampling emission factors and activity data  
+    under ART-TREES Standard V2.0 (*2024-12-19*).
 
 -   [**ART-TREES**](https://seamusrobertmurphy.quarto.pub/allometry-validation)
-    **Allometry Vallidator** for validating and calibrating allometric
-    biomass models to comply with ART-TREES requirements, focusing on
-    statistical bias correction (*2025-02-16*).
+    **Allometry Vallidation** of generalized and specific equations, including 
+    calibration and bias correction methods for model optimization (*2025-02-16*).
 
 -   [**LiDAR**](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability)
-    **Canopy Analysis** workflow combining LiDAR and photogrammetric
-    data for forest inventory planning, including automated tree top
-    detection and stand structure analysis (*2023-10-15*).
+    **Tree Height Index** calculated from tree top detection for mapping variance in 
+    canopy structure to support cruising operations (*2023-10-15*).
 
 -   [**LiDAR**](https://seamusrobertmurphy.quarto.pub/lidar-forestry/)
-    **Point Clouds Processing** workflow for High-Resolution Terrain
-    and Canopy Modeling from Airborne LiDAR Data (*2021-11-09*).
+    **Forestry Toolkit** for steos in processing, estimation and visualization
+    of forest biomass and structure from Airborne LiDAR Data (*2021-11-09*).
 
--   [**GeoODK**](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map)
-    **Open Source GeoSurvey** template for socioeconomic field surveys
-    with positional quality control protocols (*2018-02-05*)
+-   [**FIRE-CFFDRS**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
+    **Canadian Forest Fire Danger Rating System** guide incl. fuel
+    typing, climate mapping, fire weather and burn indexing using
+    updated methods of the CFFDRS V2.0 (*2022-02-24*).
+
+-   [**FIRE-IPCC**](https://seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
+    **IPCC Tier 1 Forest Fire Emissions** guide using Earth Engine API in
+    an R environment, incl. fuel stratification, emission factor calulation (Eq.
+    2.27), and uncertainty propagation (*2025-11-06*).
 
 -   [**Mapping**](https://seamusrobertmurphy.quarto.pub/map-templates/)
-    **Templates** for standardized site visualization, including
-    topography, hydrography, climate, and demography (*2024-12-04*).
+    **Templates** for standardized maps of site terrain, incl. topography, 
+    hydrography, climate, and demography (*2024-12-04*).
 
--   [**Wildfire-CFFDRS**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
-    **Canadian Forest Fire Danger Rating System** workflow from fuel
-    typing, climate mapping, to fire burn prediction metrics using the
-    updated CFFDRS V2.0 methodology (*2022-02-24*).
-
--   [**Wildfire-IPCC**](https://seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
-    **IPCC Tier 1 Forest Fire Emissions** workflow in Earth Engine,
-    including fuel stratification, emission factor application (Eq.
-    2.27), uncertainty propagation, and program reporting
-    (*2025-11-06*).
+-   [**GeoODK**](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map)
+    **Templates** for deploying, monitoring and analyzing field surveys, written in 
+    XForm incl. quality control rules and schema tips (*2018-02-05*)
 
 ----------------------------------------------------------------------
 
 ##### Languages, Platforms, Ecosystems
 
-::: {align="center"}
+<div align="left">
+
 [<img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="ubuntu" width="35"/>](https://www.releases.ubuntu.com/)
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35"/>](https://www.gnu.org/software/bash/)
 [<img src="https://geomoer.github.io/moer-base-r/assets/images/unit_images/u01/grid.png" alt="rstudio" width="53"/>](https://posit.co)
@@ -95,13 +84,6 @@ analysis. Happy coding.
 [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="35"/>](#0)
 [<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="35"/>](#0)
 [<img src="https://www.svgrepo.com/show/510065/markdown.svg" alt="Markdown" width="35"/>](#0)
-:::
-
-----------------------------------------------------------------------
-
-##### Tools & Packages
-
-::: {align="center"}
 [<img src="https://saga-gis.sourceforge.io/_images/logo_saga.png" width="35"/>](https://saga-gis.sourceforge.io)
 [<img src="https://open-eo.github.io/openeo-r-client/reference/figures/logo.png" width="36"/>](https://open-eo.github.io)
 [<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-platform-220.png" width="35"/>](https://www.esriuk.com/en-gb/arcgis/products/arcgis-online/overview)
@@ -120,13 +102,8 @@ analysis. Happy coding.
 [<img src="https://user-images.githubusercontent.com/6677629/193518988-956b9571-169d-4a79-89a8-d347d46c1af7.png" alt="GEE Catalog" width="35"/>](https://developers.google.com/earth-engine/datasets/)
 [<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Code Editor" width="35"/>](https://code.earthengine.google.com/)
 [<img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="45"/>](https://www.docker.com/)
-:::
-
-----------------------------------------------------------------------
-
-##### Libraries & Collections
-
-::: {align="center"}
+[<img src="https://raw.githubusercontent.com/davemlz/davemlz/main/spectral.png" alt="spectral" width="35"/>](https://github.com/davemlz/spectral)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwIxPM4L3q_9FAJgsKa1626sEiYbvMUMgiw&amp;s" alt="Code Editor" width="35"/>](https://step.esa.int/main/download/snap-download/)
 [<img src="https://avatars.githubusercontent.com/u/1058467?s=48&amp;v=4" width="35"/>](https://gdal.org/)
 [<img src="https://avatars.githubusercontent.com/u/9302722?s=200&amp;v=4" width="35"/>](https://github.com/LAStools/LAStools)
 [<img src="https://rapidlasso.de/wp-content/uploads/2023/03/Logo-Rapidlasso.svg" width="35"/>](https://rapidlasso.de)
@@ -146,26 +123,14 @@ analysis. Happy coding.
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO2BBECcflpS7-hU8o8kBVWnmJPA0rmjmIa3rOjaq6OBT3J2YnyB_1X2U&amp;s" alt="SEPAL" width="45"/>](https://sepal.io/)
 [<img src="https://www.openforis.org/wp-content/uploads/2025/10/OpenForis-collect-small-Logo.svg" alt="Collect Earth" width="35"/>](https://collect.earth/)
 [<img src="https://sentinels.copernicus.eu/image/layout_set_logo?img_id=5289281&amp;t=1612791925177" alt="Sentinel" width="35"/>](https://sentinels.copernicus.eu/)
-:::
-
-----------------------------------------------------------------------
-
-##### Workspaces
-
-::: {align="center"}
-[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="25"/>](#0)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](#0)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](#0)
-[<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](#0)
-[<img src="https://raw.githubusercontent.com/davemlz/davemlz/main/spectral.png" alt="spectral" width="35"/>](https://github.com/davemlz/spectral)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwIxPM4L3q_9FAJgsKa1626sEiYbvMUMgiw&amp;s" alt="Code Editor" width="35"/>](https://step.esa.int/main/download/snap-download/)
-:::
+</div>
 
 ##### Stats & Gists
 
-::: {align="center"}
+<div align="left">
+
 |  |  |
 |-----------------------------------|-----------------------------------|
 | [![GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy&show_icons=true&theme=dark#gh-dark-mode-only){alt="GitHub stats-Dark"}](https://github.com/seamusrobertmurphy/github-readme-stats#gh-dark-mode-only)[![GitHub stats-Light](https://github-readme-stats-fast.vercel.app/api?username=seamusrobertmurphy&show_icons=true&theme=default#gh-light-mode-only){alt="GitHub stats-Light"}](https://github.com/seamusrobertmurphy/github-readme-stats#gh-light-mode-only) | [![Top Langs-Dark](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seamusrobertmurphy&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only){alt="Top Langs-Dark"}](https://github.com/seamusrobertmurphy/github-readme-stats#gh-dark-mode-only)[![Top Langs-Light](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seamusrobertmurphy&layout=compact&langs_count=8&theme=default#gh-light-mode-only){alt="Top Langs-Light"}](https://github.com/seamusrobertmurphy/github-readme-stats#gh-light-mode-only) |
 | [![Gist Card-Dark](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&theme=dark&show_owner=false#gh-dark-mode-only){alt="Gist Card-Dark"}](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b#gh-dark-mode-only)[![Gist Card-Light](https://github-readme-stats-fast.vercel.app/api/gist?id=a386ce3a022bf51c4795a402fb5c754b&theme=default&show_owner=false#gh-light-mode-only){alt="Gist Card-Light"}](https://gist.github.com/seamusrobertmurphy/a386ce3a022bf51c4795a402fb5c754b#gh-light-mode-only) | [![Gist Card-Dark](https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&theme=dark&show_owner=false#gh-dark-mode-only){alt="Gist Card-Dark"}](https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-dark-mode-only)[![Gist Card-Light](https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&theme=default&show_owner=false#gh-light-mode-only){alt="Gist Card-Light"}](https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-light-mode-only) |
-:::
+</div>
