@@ -12,6 +12,24 @@ mapping, household consumption and value chain analysis. Happy coding.
 
 ### Guides
 
+-   [**LiDAR**](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability)
+    **Tree Height Index** calculated from tree top detection for mapping variance in 
+    canopy structure to support cruising operations (*2023-10-15*).
+
+-   [**LiDAR**](https://seamusrobertmurphy.quarto.pub/lidar-forestry/)
+    **Forestry Toolkit** for steos in processing, estimation and visualization
+    of forest biomass and structure from Airborne LiDAR Data (*2021-11-09*).
+
+-   [**FIRE-CFFDRS**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
+    **Canadian Forest Fire Danger Rating System** guide incl. fuel
+    typing, climate mapping, fire weather and burn indexing using
+    updated methods of the CFFDRS V2.0 (*2022-02-24*).
+
+-   [**FIRE-IPCC**](https://seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
+    **IPCC Tier 1 Forest Fire Emissions** guide using Earth Engine API in
+    an R environment, incl. fuel stratification, emission factor calulation (Eq.
+    2.27), and uncertainty propagation (*2025-11-06*).
+    
 -   [**REDD+**](https://training-resource.github.io/uncertainty/)
     **Training** in uncertainty statistics for jurisdictional programs 
     incl. allometry, emission factors, activity data, and error
@@ -32,24 +50,6 @@ mapping, household consumption and value chain analysis. Happy coding.
 -   [**ART-TREES**](https://seamusrobertmurphy.quarto.pub/allometry-validation)
     **Allometry Vallidation** of generalized and specific equations, including 
     calibration and bias correction methods for model optimization (*2025-02-16*).
-
--   [**LiDAR**](https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability)
-    **Tree Height Index** calculated from tree top detection for mapping variance in 
-    canopy structure to support cruising operations (*2023-10-15*).
-
--   [**LiDAR**](https://seamusrobertmurphy.quarto.pub/lidar-forestry/)
-    **Forestry Toolkit** for steos in processing, estimation and visualization
-    of forest biomass and structure from Airborne LiDAR Data (*2021-11-09*).
-
--   [**FIRE-CFFDRS**](https://seamusrobertmurphy.quarto.pub/cffdrs/)
-    **Canadian Forest Fire Danger Rating System** guide incl. fuel
-    typing, climate mapping, fire weather and burn indexing using
-    updated methods of the CFFDRS V2.0 (*2022-02-24*).
-
--   [**FIRE-IPCC**](https://seamusrobertmurphy.quarto.pub/ipcc-fire-emissions)
-    **IPCC Tier 1 Forest Fire Emissions** guide using Earth Engine API in
-    an R environment, incl. fuel stratification, emission factor calulation (Eq.
-    2.27), and uncertainty propagation (*2025-11-06*).
 
 -   [**Mapping**](https://seamusrobertmurphy.quarto.pub/map-templates/)
     **Templates** for standardized maps of site terrain, incl. topography, 
