@@ -1,5 +1,8 @@
 <div align="center">
-<h1>Seamus Murphy</h1>[<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](https://www.researchgate.net/profile/Seamus-Murphy-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](https://www.linkedin.com/in/seamusrobertmurphy/?isSelfProfile=true)[<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jDGq9I4AAAAJ)
+<h1>Seamus Murphy</h1>
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3772415-3151543.png" width="25"/>](https://www.researchgate.net/profile/Seamus-Murphy-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](https://www.linkedin.com/in/seamusrobertmurphy/?isSelfProfile=true)
+[<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" width="25"/>](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jDGq9I4AAAAJ)
 
 </div>
 
