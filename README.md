@@ -52,11 +52,11 @@ mapping, household consumption and value chain analysis. Happy coding.
     calibration and bias correction methods for model optimization (*2025-02-16*).
 
 -   [**Mapping**](https://seamusrobertmurphy.quarto.pub/map-templates/)
-    **Templates** for standardized maps of site terrain, incl. topography, 
+    **Templates** for standardized maps of site terrain, topography, 
     hydrography, climate, and demography (*2024-12-04*).
 
 -   [**GeoODK**](https://eu.kobotoolbox.org/#/forms/ajw7YvwXFgCgVaaAiz9Xrm/data/map)
-    **Templates** for deploying, monitoring and analyzing field surveys, written in 
+    **Templates** for writing, deploying, and analyzing field surveys, written in 
     XForm incl. quality control rules and schema tips (*2018-02-05*)
 
 ----------------------------------------------------------------------
@@ -122,12 +122,8 @@ mapping, household consumption and value chain analysis. Happy coding.
 
 ##### Stats & Gists
 
-[![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=seamusrobertmurphy&theme=dark#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
-[![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=seamusrobertmurphy&theme=default#gh-light-mode-only)](https://github.com/Pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=405&card_height=170&theme=dark#gh-dark-mode-only" alt="Streak" width="49%"/></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=405&card_height=170&theme=default#gh-light-mode-only" alt="Streak" width="49%"/></a>
+<a href="https://github.com/seamusrobertmurphy?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&card_width=452&theme=dark" alt="Top languages" width="49%"/></a>
 
-[![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=dark#gh-dark-mode-only)](https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-dark-mode-only)
-[![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=default#gh-light-mode-only)](https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-light-mode-only)
-[![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=dark#gh-dark-mode-only)](https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-dark-mode-only)
-[![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=default#gh-light-mode-only)](https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-light-mode-only)
-
-<a href="https://github.com/seamusrobertmurphy?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&card_width=495&theme=dark" alt="Top languages" width="49%"/></a>
+<a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=dark#gh-dark-mode-only" alt="Gist" width="49%"/></a><a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=default#gh-light-mode-only" alt="Gist" width="49%"/></a>
+<a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=dark#gh-dark-mode-only" alt="Gist" width="49%"/></a><a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=default#gh-light-mode-only" alt="Gist" width="49%"/></a>
