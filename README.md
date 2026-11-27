@@ -122,8 +122,6 @@ mapping, household consumption and value chain analysis. Happy coding.
 
 ##### Stats & Gists
 
-![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&theme=dark#gh-dark-mode-only)
-![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&theme=default#gh-light-mode-only)
 [![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=seamusrobertmurphy&theme=dark#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
 [![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=seamusrobertmurphy&theme=default#gh-light-mode-only)](https://github.com/Pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
 
