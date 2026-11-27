@@ -61,7 +61,7 @@ mapping, household consumption and value chain analysis. Happy coding.
 
 ----------------------------------------------------------------------
 
-##### Languages, Platforms, Ecosystems
+##### Tools & Languages
 
 <div align="left">
 
