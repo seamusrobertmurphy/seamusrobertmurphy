@@ -122,25 +122,12 @@ mapping, household consumption and value chain analysis. Happy coding.
 
 ##### Stats & Gists
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&theme=dark#gh-dark-mode-only" alt="Top languages"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&theme=default#gh-light-mode-only" alt="Top languages"/>
-</td>
-<td>
-<a href="https://github.com/Pranesh-2005/github-readme-stats-fast#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=seamusrobertmurphy&theme=dark#gh-dark-mode-only" alt="Streak"/></a>
-<a href="https://github.com/Pranesh-2005/github-readme-stats-fast#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=seamusrobertmurphy&theme=default#gh-light-mode-only" alt="Streak"/></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=dark#gh-dark-mode-only" alt="Gist"/></a>
-<a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=default#gh-light-mode-only" alt="Gist"/></a>
-</td>
-<td>
-<a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=dark#gh-dark-mode-only" alt="Gist"/></a>
-<a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=default#gh-light-mode-only" alt="Gist"/></a>
-</td>
-</tr>
-</table>
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&theme=dark#gh-dark-mode-only)
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&theme=default#gh-light-mode-only)
+[![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=seamusrobertmurphy&theme=dark#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
+[![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=seamusrobertmurphy&theme=default#gh-light-mode-only)](https://github.com/Pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
+
+[![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=dark#gh-dark-mode-only)](https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-dark-mode-only)
+[![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=default#gh-light-mode-only)](https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-light-mode-only)
+[![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=dark#gh-dark-mode-only)](https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-dark-mode-only)
+[![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=default#gh-light-mode-only)](https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-light-mode-only)
