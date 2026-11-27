@@ -22,14 +22,6 @@ mapping, household consumption and value chain analysis. Happy coding.
 <a href="https://github.com/seamusrobertmurphy/forest-fire-index-trends#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=seamusrobertmurphy&repo=forest-fire-index-trends&description_lines_count=3&theme=dark#gh-dark-mode-only" alt="forest-fire-index-trends" width="49%"/></a><a href="https://github.com/seamusrobertmurphy/forest-fire-index-trends#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=seamusrobertmurphy&repo=forest-fire-index-trends&description_lines_count=3&theme=default#gh-light-mode-only" alt="forest-fire-index-trends" width="49%"/></a>
 
 
-##### Stats & Gists
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=400&card_height=168&theme=dark#gh-dark-mode-only" alt="Streak" width="49%"/></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=400&card_height=168&theme=default#gh-light-mode-only" alt="Streak" width="49%"/></a>
-<a href="https://github.com/seamusrobertmurphy?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&card_width=452&theme=dark" alt="Top languages" width="49%"/></a>
-
-<a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=dark#gh-dark-mode-only" alt="Gist" width="49%"/></a><a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=default#gh-light-mode-only" alt="Gist" width="49%"/></a>
-<a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=dark&v=3#gh-dark-mode-only" alt="Gist" width="49%"/></a><a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=default&v=3#gh-light-mode-only" alt="Gist" width="49%"/></a>
-
 
 
 ### Guides
@@ -141,3 +133,16 @@ mapping, household consumption and value chain analysis. Happy coding.
 [<img src="https://www.openforis.org/wp-content/uploads/2025/10/OpenForis-collect-small-Logo.svg" alt="Collect Earth" width="35"/>](https://collect.earth/)
 [<img src="https://sentinels.copernicus.eu/image/layout_set_logo?img_id=5289281&amp;t=1612791925177" alt="Sentinel" width="35"/>](https://sentinels.copernicus.eu/)
 </div>
+
+----------------------------------------------------------------------
+
+##### Stats & Gists
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=400&card_height=168&theme=dark#gh-dark-mode-only" alt="Streak" width="49%"/></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=400&card_height=168&theme=default#gh-light-mode-only" alt="Streak" width="49%"/></a>
+<a href="https://github.com/seamusrobertmurphy?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&card_width=452&theme=dark" alt="Top languages" width="49%"/></a>
+
+<a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=dark#gh-dark-mode-only" alt="Gist" width="49%"/></a><a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=default#gh-light-mode-only" alt="Gist" width="49%"/></a>
+<a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=dark&v=3#gh-dark-mode-only" alt="Gist" width="49%"/></a><a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=default&v=3#gh-light-mode-only" alt="Gist" width="49%"/></a>
+
+
+
