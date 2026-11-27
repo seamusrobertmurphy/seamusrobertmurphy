@@ -131,3 +131,5 @@ mapping, household consumption and value chain analysis. Happy coding.
 [![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=4a4ffc4ebd795928ca63e9b1def8079f&show_owner=false&theme=default#gh-light-mode-only)](https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f#gh-light-mode-only)
 [![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=dark#gh-dark-mode-only)](https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-dark-mode-only)
 [![Gist](https://github-readme-stats-fast.vercel.app/api/gist?id=519e0957117783f4b8dd5cd93d0f1f45&show_owner=false&theme=default#gh-light-mode-only)](https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45#gh-light-mode-only)
+
+<a href="https://github.com/seamusrobertmurphy?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&card_width=495&theme=dark" alt="Top languages" width="49%"/></a>
