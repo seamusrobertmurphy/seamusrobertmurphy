@@ -57,7 +57,7 @@ mapping, household consumption and value chain analysis. Happy coding.
     **IFM Template** for MRV reporting template for Improved Forest
     Management projects incl. logging operations, extaction and haulage (*2024-11-04*).
 
--   [**ART-TREES**](https://rpubs.com/seamusmurphy/art-trees-monte-carlo-uncertainty)
+-   [**ART-TREES**](https://seamusrobertmurphy.github.io/monte-carlo-trees/)
     **Monte Carlo** tools for resampling emission factors and activity data  
     under ART-TREES Standard V2.0 (*2024-12-19*).
 
