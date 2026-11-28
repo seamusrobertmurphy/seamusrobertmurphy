@@ -144,7 +144,7 @@ mapping, household consumption and value chain analysis. Happy coding.
 
 
 <a href="https://gist.github.com/seamusrobertmurphy/0fb707e830493e5f9373eb8ec0978587#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=0fb707e830493e5f9373eb8ec0978587&show_owner=false&theme=dark#gh-dark-mode-only" alt="Gist 1" width="49%"/></a><a href="https://gist.github.com/seamusrobertmurphy/0fb707e830493e5f9373eb8ec0978587#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=0fb707e830493e5f9373eb8ec0978587&show_owner=false&theme=default#gh-light-mode-only" alt="Gist 1" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 2" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 2" width="49%"/></a>
-
+<a href="https://github.com"><img src="https://vercel.app" alt="Gist 3" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 3" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 4" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 4" width="49%"/></a>
 
 
 ##### Stats & Gists
