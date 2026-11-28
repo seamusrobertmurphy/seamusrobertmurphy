@@ -145,8 +145,11 @@ mapping, household consumption and value chain analysis. Happy coding.
 
 ##### Stats & Gists
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://demolab.com"><source media="(prefers-color-scheme: light)" srcset="https://demolab.com"><img alt="Streak" src="https://demolab.com" width="49%"/></picture></a><a href="https://github.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://vercel.app"><source media="(prefers-color-scheme: light)" srcset="https://vercel.app"><img alt="Top languages" src="https://vercel.app" width="49%"/></picture></a>
+<a href="https://github.com"><img src="https://demolab.com" alt="Streak" width="49%"/></a><a href="https://github.com"><img src="https://demolab.com" alt="Streak" width="49%"/></a>
+<a href="https://github.com"><img src="https://vercel.app" alt="Top languages" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Top languages" width="49%"/></a>
 
-<a href="https://github.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://vercel.app"><source media="(prefers-color-scheme: light)" srcset="https://vercel.app"><img alt="Gist 1" src="https://vercel.app" width="49%"/></picture></a><a href="https://gist.github.com/seamusrobertmurphy/0f1dd1e29dddfe3fc9089fb9756032df"><picture><source media="(prefers-color-scheme: dark)" srcset="https://vercel.app"><source media="(prefers-color-scheme: light)" srcset="https://vercel.app"><img alt="Gist 2" src="https://vercel.app" width="49%"/></picture></a>
+<a href="https://github.com"><img src="https://vercel.app" alt="Gist 1" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 1" width="49%"/></a>
+<a href="https://github.com"><img src="https://vercel.app" alt="Gist 2" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 2" width="49%"/></a>
 
-<a href="https://gist.github.com/seamusrobertmurphy/519e0957117783f4b8dd5cd93d0f1f45"><picture><source media="(prefers-color-scheme: dark)" srcset="https://vercel.app"><source media="(prefers-color-scheme: light)" srcset="https://vercel.app"><img alt="Gist 3" src="https://vercel.app" width="49%"/></picture></a><a href="https://gist.github.com/seamusrobertmurphy/4a4ffc4ebd795928ca63e9b1def8079f"><picture><source media="(prefers-color-scheme: dark)" srcset="https://vercel.app"><source media="(prefers-color-scheme: light)" srcset="https://vercel.app"><img alt="Gist 4" src="https://vercel.app" width="49%"/></picture></a>
+<a href="https://github.com"><img src="https://vercel.app" alt="Gist 3" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 3" width="49%"/></a>
+<a href="https://github.com"><img src="https://vercel.app" alt="Gist 4" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 4" width="49%"/></a>
