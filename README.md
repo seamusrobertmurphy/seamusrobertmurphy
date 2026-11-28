@@ -138,9 +138,13 @@ mapping, household consumption and value chain analysis. Happy coding.
 
 ##### Stats & Gists
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=405&card_height=170&theme=dark#gh-dark-mode-only" alt="Streak" width="49%"/></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=405&card_height=170&theme=default#gh-light-mode-only" alt="Streak" width="49%"/></a><a href="https://github.com/seamusrobertmurphy?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&card_width=452&theme=dark" alt="Top languages" width="49%"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=405&card_height=170&theme=dark#gh-dark-mode-only" alt="Streak" width="49%"/></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only"><img src="https://streak-stats.demolab.com?user=seamusrobertmurphy&card_width=405&card_height=170&theme=default#gh-light-mode-only" alt="Streak" width="49%"/></a>  
+
+<a href="https://github.com/seamusrobertmurphy?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=seamusrobertmurphy&layout=compact&langs_count=8&hide=html,ags%20script&card_width=452&theme=dark" alt="Top languages" width="49%"/></a>
+
+
 <a href="https://gist.github.com/seamusrobertmurphy/0fb707e830493e5f9373eb8ec0978587#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=0fb707e830493e5f9373eb8ec0978587&show_owner=false&theme=dark#gh-dark-mode-only" alt="Gist 1" width="49%"/></a><a href="https://gist.github.com/seamusrobertmurphy/0fb707e830493e5f9373eb8ec0978587#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/gist?id=0fb707e830493e5f9373eb8ec0978587&show_owner=false&theme=default#gh-light-mode-only" alt="Gist 1" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 2" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 2" width="49%"/></a>
-<a href="https://github.com"><img src="https://vercel.app" alt="Gist 3" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 3" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 4" width="49%"/></a><a href="https://github.com"><img src="https://vercel.app" alt="Gist 4" width="49%"/></a>
+
 
 
 ##### Stats & Gists
