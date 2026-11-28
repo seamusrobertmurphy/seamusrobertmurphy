@@ -9,3 +9,9 @@
 /README-web
 #*.html._*
 ._*
+
+# Working folders kept off GitHub
+05.scripts/
+05.tasks/
+scripts/
+tasks/
